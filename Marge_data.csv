@@ -1,0 +1,721 @@
+,Alumni,Variable,Year,Description
+0,623,Citi,2010,Company
+1,564,EY,2010,Company
+2,533,Accenture,2010,Company
+3,382,PwC Polska,2010,Company
+4,362,Deloitte,2010,Company
+5,283,Procter & Gamble,2010,Company
+6,268,PZU,2010,Company
+7,243,mBank S.A.,2010,Company
+8,234,KPMG Poland,2010,Company
+9,217,JLL,2010,Company
+10,200,Santander Bank Polska,2010,Company
+11,196,AstraZeneca,2010,Company
+12,189,PwC,2010,Company
+13,167,SGH Warsaw School of Economics,2010,Company
+14,133,RB,2010,Company
+0,574,Citi,2011,Company
+1,527,EY,2011,Company
+2,502,Accenture,2011,Company
+3,368,PwC Polska,2011,Company
+4,338,Deloitte,2011,Company
+5,264,Procter & Gamble,2011,Company
+6,253,PZU,2011,Company
+7,227,KPMG Poland,2011,Company
+8,225,mBank S.A.,2011,Company
+9,203,JLL,2011,Company
+10,190,AstraZeneca,2011,Company
+11,180,PwC,2011,Company
+12,176,Santander Bank Polska,2011,Company
+13,161,SGH Warsaw School of Economics,2011,Company
+14,128,RB,2011,Company
+0,107,Citi,2012,Company
+1,102,Accenture,2012,Company
+2,89,EY,2012,Company
+3,64,PwC Polska,2012,Company
+4,56,Procter & Gamble,2012,Company
+5,52,mBank S.A.,2012,Company
+6,49,Deloitte,2012,Company
+7,47,PKO Bank Polski,2012,Company
+8,47,PZU,2012,Company
+9,47,JLL,2012,Company
+10,43,Bank Pekao,2012,Company
+11,41,SGH Warsaw School of Economics,2012,Company
+12,38,AstraZeneca,2012,Company
+13,34,BNP Paribas Bank Polska,2012,Company
+14,27,Narodowy Bank Polski (NBP),2012,Company
+0,484,Citi,2013,Company
+1,464,EY,2013,Company
+2,434,Accenture,2013,Company
+3,337,PwC Polska,2013,Company
+4,309,Deloitte,2013,Company
+5,242,Procter & Gamble,2013,Company
+6,219,PZU,2013,Company
+7,211,KPMG Poland,2013,Company
+8,191,mBank S.A.,2013,Company
+9,176,JLL,2013,Company
+10,167,AstraZeneca,2013,Company
+11,165,Bank Pekao,2013,Company
+12,162,PwC,2013,Company
+13,138,SGH Warsaw School of Economics,2013,Company
+14,110,CEMS Club Warsaw,2013,Company
+0,447,Citi,2014,Company
+1,435,EY,2014,Company
+2,398,Accenture,2014,Company
+3,321,PwC Polska,2014,Company
+4,279,Deloitte,2014,Company
+5,226,Procter & Gamble,2014,Company
+6,196,KPMG Poland,2014,Company
+7,190,PZU,2014,Company
+8,181,PKO Bank Polski,2014,Company
+9,162,JLL,2014,Company
+10,160,BNP Paribas Securities Services,2014,Company
+11,144,AstraZeneca,2014,Company
+12,142,PwC,2014,Company
+13,135,Santander Bank Polska,2014,Company
+14,110,CEMS Club Warsaw,2014,Company
+0,402,Citi,2015,Company
+1,375,EY,2015,Company
+2,362,Accenture,2015,Company
+3,304,PwC Polska,2015,Company
+4,261,Deloitte,2015,Company
+5,205,Procter & Gamble,2015,Company
+6,187,KPMG Poland,2015,Company
+7,174,PZU,2015,Company
+8,165,PKO Bank Polski,2015,Company
+9,153,BNP Paribas Securities Services,2015,Company
+10,146,JLL,2015,Company
+11,142,mBank S.A.,2015,Company
+12,128,PwC,2015,Company
+13,125,AstraZeneca,2015,Company
+14,119,Santander Bank Polska,2015,Company
+0,352,Citi,2016,Company
+1,330,EY,2016,Company
+2,325,Accenture,2016,Company
+3,278,PwC Polska,2016,Company
+4,237,Deloitte,2016,Company
+5,183,Procter & Gamble,2016,Company
+6,173,KPMG Poland,2016,Company
+7,155,PZU,2016,Company
+8,144,PKO Bank Polski,2016,Company
+9,139,BNP Paribas Securities Services,2016,Company
+10,137,JLL,2016,Company
+11,120,mBank S.A.,2016,Company
+12,110,CEMS Club Warsaw,2016,Company
+13,105,Nielsen,2016,Company
+14,105,Santander Bank Polska,2016,Company
+0,293,Citi,2017,Company
+1,281,Accenture,2017,Company
+2,270,EY,2017,Company
+3,253,PwC Polska,2017,Company
+4,206,Deloitte,2017,Company
+5,162,Procter & Gamble,2017,Company
+6,161,KPMG Poland,2017,Company
+7,129,PZU,2017,Company
+8,121,PKO Bank Polski,2017,Company
+9,121,JLL,2017,Company
+10,116,BNP Paribas Securities Services,2017,Company
+11,112,SGH Warsaw School of Economics,2017,Company
+12,109,CEMS Club Warsaw,2017,Company
+13,103,mBank S.A.,2017,Company
+14,94,Nielsen,2017,Company
+0,246,Accenture,2018,Company
+1,244,Citi,2018,Company
+2,225,EY,2018,Company
+3,207,PwC Polska,2018,Company
+4,175,Deloitte,2018,Company
+5,139,KPMG Poland,2018,Company
+6,137,Procter & Gamble,2018,Company
+7,109,CEMS Club Warsaw,2018,Company
+8,102,PKO Bank Polski,2018,Company
+9,97,PZU,2018,Company
+10,97,JLL,2018,Company
+11,97,BNP Paribas Securities Services,2018,Company
+12,95,SGH Warsaw School of Economics,2018,Company
+13,81,Nielsen,2018,Company
+14,79,Santander Bank Polska,2018,Company
+0,192,Citi,2019,Company
+1,184,Accenture,2019,Company
+2,165,EY,2019,Company
+3,157,PwC Polska,2019,Company
+4,136,Deloitte,2019,Company
+5,109,CEMS Club Warsaw,2019,Company
+6,102,Procter & Gamble,2019,Company
+7,101,KPMG Poland,2019,Company
+8,82,SGH Warsaw School of Economics,2019,Company
+9,82,BNP Paribas Securities Services,2019,Company
+10,81,Students' Business Club,2019,Company
+11,79,JLL,2019,Company
+12,75,PKO Bank Polski,2019,Company
+13,67,Nielsen,2019,Company
+14,60,Warsaw Consulting Club,2019,Company
+0,133,Citi,2020,Company
+1,122,Accenture,2020,Company
+2,113,EY,2020,Company
+3,104,PwC Polska,2020,Company
+4,103,CEMS Club Warsaw,2020,Company
+5,91,Deloitte,2020,Company
+6,77,Students' Business Club,2020,Company
+7,72,Procter & Gamble,2020,Company
+8,65,KPMG Poland,2020,Company
+9,61,BNP Paribas Securities Services,2020,Company
+10,59,JLL,2020,Company
+11,58,Warsaw Consulting Club,2020,Company
+12,55,PZU,2020,Company
+13,53,SGH Warsaw School of Economics,2020,Company
+14,49,Warsaw School of Economics Students' Union,2020,Company
+0,86,CEMS Club Warsaw,2021,Company
+1,64,Students' Business Club,2021,Company
+2,60,Accenture,2021,Company
+3,56,Citi,2021,Company
+4,53,EY,2021,Company
+5,53,PwC Polska,2021,Company
+6,50,Warsaw Consulting Club,2021,Company
+7,48,Deloitte,2021,Company
+8,43,Warsaw School of Economics Students' Union,2021,Company
+9,36,ZSP SGH,2021,Company
+10,36,Procter & Gamble,2021,Company
+11,35,BNP Paribas Securities Services,2021,Company
+12,33,SGH Warsaw School of Economics,2021,Company
+13,28,JLL,2021,Company
+14,22,Studenckie Koło Naukowe Negocjator,2021,Company
+0,"1,418",Business Development,2010,Position
+1,"1,044",Finance,2010,Position
+2,771,Sales,2010,Position
+3,741,Information Technology,2010,Position
+4,715,Operations,2010,Position
+5,584,Marketing,2010,Position
+6,532,Program and Project Management,2010,Position
+7,522,Accounting,2010,Position
+8,375,Engineering,2010,Position
+9,353,Research,2010,Position
+10,308,Consulting,2010,Position
+11,247,Support,2010,Position
+12,240,Human Resources,2010,Position
+13,224,Media and Communication,2010,Position
+14,219,Education,2010,Position
+0,"1,382",Business Development,2011,Position
+1,953,Finance,2011,Position
+2,804,Information Technology,2011,Position
+3,740,Sales,2011,Position
+4,705,Operations,2011,Position
+5,601,Marketing,2011,Position
+6,543,Accounting,2011,Position
+7,503,Program and Project Management,2011,Position
+8,485,Engineering,2011,Position
+9,348,Research,2011,Position
+10,319,Consulting,2011,Position
+11,276,Support,2011,Position
+12,250,Human Resources,2011,Position
+13,243,Media and Communication,2011,Position
+14,206,Education,2011,Position
+0,"1,406",Business Development,2012,Position
+1,"1,074",Finance,2012,Position
+2,817,Information Technology,2012,Position
+3,781,Sales,2012,Position
+4,716,Operations,2012,Position
+5,662,Marketing,2012,Position
+6,573,Accounting,2012,Position
+7,568,Program and Project Management,2012,Position
+8,482,Engineering,2012,Position
+9,405,Research,2012,Position
+10,332,Consulting,2012,Position
+11,268,Media and Communication,2012,Position
+12,265,Support,2012,Position
+13,255,Human Resources,2012,Position
+14,235,Product Management,2012,Position
+0,"1,413",Business Development,2013,Position
+1,"1,083",Finance,2013,Position
+2,821,Information Technology,2013,Position
+3,787,Operations,2013,Position
+4,762,Sales,2013,Position
+5,652,Marketing,2013,Position
+6,596,Accounting,2013,Position
+7,546,Program and Project Management,2013,Position
+8,440,Engineering,2013,Position
+9,424,Research,2013,Position
+10,344,Consulting,2013,Position
+11,260,Support,2013,Position
+12,259,Media and Communication,2013,Position
+13,258,Human Resources,2013,Position
+14,228,Education,2013,Position
+0,"1,348",Business Development,2014,Position
+1,"1,130",Finance,2014,Position
+2,876,Information Technology,2014,Position
+3,765,Operations,2014,Position
+4,737,Sales,2014,Position
+5,709,Marketing,2014,Position
+6,691,Accounting,2014,Position
+7,503,Program and Project Management,2014,Position
+8,446,Engineering,2014,Position
+9,390,Research,2014,Position
+10,363,Consulting,2014,Position
+11,294,Media and Communication,2014,Position
+12,279,Support,2014,Position
+13,259,Human Resources,2014,Position
+14,242,Legal,2014,Position
+0,"1,246",Business Development,2015,Position
+1,"1,051",Finance,2015,Position
+2,903,Information Technology,2015,Position
+3,798,Sales,2015,Position
+4,794,Operations,2015,Position
+5,722,Accounting,2015,Position
+6,676,Marketing,2015,Position
+7,510,Program and Project Management,2015,Position
+8,490,Engineering,2015,Position
+9,466,Research,2015,Position
+10,343,Consulting,2015,Position
+11,295,Support,2015,Position
+12,276,Media and Communication,2015,Position
+13,253,Human Resources,2015,Position
+14,231,Legal,2015,Position
+0,"1,361",Business Development,2016,Position
+1,"1,139",Finance,2016,Position
+2,"1,026",Information Technology,2016,Position
+3,927,Operations,2016,Position
+4,818,Sales,2016,Position
+5,811,Accounting,2016,Position
+6,747,Marketing,2016,Position
+7,554,Program and Project Management,2016,Position
+8,518,Engineering,2016,Position
+9,456,Research,2016,Position
+10,370,Consulting,2016,Position
+11,354,Support,2016,Position
+12,271,Human Resources,2016,Position
+13,253,Media and Communication,2016,Position
+14,237,Legal,2016,Position
+0,"1,193",Business Development,2017,Position
+1,"1,064",Finance,2017,Position
+2,909,Operations,2017,Position
+3,889,Information Technology,2017,Position
+4,788,Sales,2017,Position
+5,748,Accounting,2017,Position
+6,702,Marketing,2017,Position
+7,525,Program and Project Management,2017,Position
+8,500,Engineering,2017,Position
+9,465,Research,2017,Position
+10,356,Support,2017,Position
+11,344,Consulting,2017,Position
+12,292,Human Resources,2017,Position
+13,272,Media and Communication,2017,Position
+14,266,Education,2017,Position
+0,"1,186",Business Development,2018,Position
+1,964,Finance,2018,Position
+2,892,Operations,2018,Position
+3,868,Information Technology,2018,Position
+4,796,Accounting,2018,Position
+5,730,Sales,2018,Position
+6,589,Marketing,2018,Position
+7,496,Program and Project Management,2018,Position
+8,479,Engineering,2018,Position
+9,419,Research,2018,Position
+10,379,Support,2018,Position
+11,329,Consulting,2018,Position
+12,280,Media and Communication,2018,Position
+13,270,Human Resources,2018,Position
+14,268,Administrative,2018,Position
+0,"1,014",Business Development,2019,Position
+1,850,Operations,2019,Position
+2,841,Finance,2019,Position
+3,717,Information Technology,2019,Position
+4,642,Accounting,2019,Position
+5,624,Sales,2019,Position
+6,553,Marketing,2019,Position
+7,363,Program and Project Management,2019,Position
+8,363,Engineering,2019,Position
+9,348,Research,2019,Position
+10,332,Support,2019,Position
+11,302,Education,2019,Position
+12,277,Administrative,2019,Position
+13,274,Human Resources,2019,Position
+14,264,Legal,2019,Position
+0,709,Business Development,2020,Position
+1,701,Operations,2020,Position
+2,694,Finance,2020,Position
+3,558,Information Technology,2020,Position
+4,550,Accounting,2020,Position
+5,517,Sales,2020,Position
+6,443,Marketing,2020,Position
+7,292,Support,2020,Position
+8,276,Engineering,2020,Position
+9,267,Program and Project Management,2020,Position
+10,245,Research,2020,Position
+11,241,Administrative,2020,Position
+12,233,Human Resources,2020,Position
+13,231,Legal,2020,Position
+14,217,Education,2020,Position
+0,359,Operations,2021,Position
+1,332,Business Development,2021,Position
+2,286,Finance,2021,Position
+3,250,Accounting,2021,Position
+4,236,Information Technology,2021,Position
+5,223,Sales,2021,Position
+6,187,Marketing,2021,Position
+7,147,Support,2021,Position
+8,142,Education,2021,Position
+9,137,Research,2021,Position
+10,119,Administrative,2021,Position
+11,113,Engineering,2021,Position
+12,100,Program and Project Management,2021,Position
+13,97,Human Resources,2021,Position
+14,96,Legal,2021,Position
+0,"1,336",Accounting and Finance,2010,Study
+1,"1,216",Economics,2010,Study
+2,"1,168","Business Administration and Management, General",2010,Study
+3,718,Information Technology,2010,Study
+4,687,Marketing,2010,Study
+5,659,Project Management,2010,Study
+6,489,"Marketing/Marketing Management, General",2010,Study
+7,471,Banking and Financial Support Services,2010,Study
+8,451,Management Sciences and Quantitative Methods,2010,Study
+9,429,International Business,2010,Study
+10,397,"Finance, General",2010,Study
+11,216,International Economics,2010,Study
+12,212,International Relations,2010,Study
+13,198,International/Global Studies,2010,Study
+14,197,Computer Science,2010,Study
+0,"1,479",Accounting and Finance,2011,Study
+1,"1,307",Economics,2011,Study
+2,"1,157","Business Administration and Management, General",2011,Study
+3,793,Information Technology,2011,Study
+4,712,Project Management,2011,Study
+5,646,Marketing,2011,Study
+6,541,Management Sciences and Quantitative Methods,2011,Study
+7,433,"Marketing/Marketing Management, General",2011,Study
+8,427,International Business,2011,Study
+9,367,"Finance, General",2011,Study
+10,289,Banking and Financial Support Services,2011,Study
+11,228,International Economics,2011,Study
+12,217,Computer Science,2011,Study
+13,203,International/Global Studies,2011,Study
+14,196,Law,2011,Study
+0,"1,671",Accounting and Finance,2012,Study
+1,"1,365",Economics,2012,Study
+2,"1,158","Business Administration and Management, General",2012,Study
+3,911,Information Technology,2012,Study
+4,737,Project Management,2012,Study
+5,636,Marketing,2012,Study
+6,572,Management Sciences and Quantitative Methods,2012,Study
+7,461,International Business,2012,Study
+8,428,"Marketing/Marketing Management, General",2012,Study
+9,346,"Finance, General",2012,Study
+10,271,International Economics,2012,Study
+11,259,Banking and Financial Support Services,2012,Study
+12,222,International/Global Studies,2012,Study
+13,206,Computer Science,2012,Study
+14,198,Law,2012,Study
+0,"1,694",Accounting and Finance,2013,Study
+1,"1,371",Economics,2013,Study
+2,"1,194","Business Administration and Management, General",2013,Study
+3,857,Information Technology,2013,Study
+4,615,Marketing,2013,Study
+5,613,Project Management,2013,Study
+6,586,Management Sciences and Quantitative Methods,2013,Study
+7,434,International Business,2013,Study
+8,377,"Marketing/Marketing Management, General",2013,Study
+9,367,"Finance, General",2013,Study
+10,280,International/Global Studies,2013,Study
+11,263,Banking and Financial Support Services,2013,Study
+12,261,International Economics,2013,Study
+13,207,Law,2013,Study
+14,195,Accounting,2013,Study
+0,"1,764",Accounting and Finance,2014,Study
+1,"1,460",Economics,2014,Study
+2,"1,230","Business Administration and Management, General",2014,Study
+3,821,Information Technology,2014,Study
+4,643,Management Sciences and Quantitative Methods,2014,Study
+5,603,Marketing,2014,Study
+6,559,Project Management,2014,Study
+7,427,International Business,2014,Study
+8,375,"Finance, General",2014,Study
+9,365,"Marketing/Marketing Management, General",2014,Study
+10,259,International Economics,2014,Study
+11,253,International/Global Studies,2014,Study
+12,231,Law,2014,Study
+13,194,Banking and Financial Support Services,2014,Study
+14,188,Corporate Finance,2014,Study
+0,"1,753",Accounting and Finance,2015,Study
+1,"1,356",Economics,2015,Study
+2,"1,264","Business Administration and Management, General",2015,Study
+3,760,Information Technology,2015,Study
+4,595,Management Sciences and Quantitative Methods,2015,Study
+5,573,Marketing,2015,Study
+6,533,Project Management,2015,Study
+7,476,International Business,2015,Study
+8,338,Data Processing and Data Processing Technology/Technician,2015,Study
+9,332,"Finance, General",2015,Study
+10,268,"Marketing/Marketing Management, General",2015,Study
+11,245,International/Global Studies,2015,Study
+12,233,Law,2015,Study
+13,212,International Economics,2015,Study
+14,192,"Business/Commerce, General",2015,Study
+0,"1,642",Accounting and Finance,2016,Study
+1,"1,416",Economics,2016,Study
+2,"1,269","Business Administration and Management, General",2016,Study
+3,774,Information Technology,2016,Study
+4,601,Management Sciences and Quantitative Methods,2016,Study
+5,591,Marketing,2016,Study
+6,579,Project Management,2016,Study
+7,491,"Finance, General",2016,Study
+8,460,International Business,2016,Study
+9,403,Data Processing and Data Processing Technology/Technician,2016,Study
+10,332,International Business/Trade/Commerce,2016,Study
+11,264,"Marketing/Marketing Management, General",2016,Study
+12,263,International/Global Studies,2016,Study
+13,257,Law,2016,Study
+14,193,Accounting,2016,Study
+0,"1,440",Accounting and Finance,2017,Study
+1,"1,268",Economics,2017,Study
+2,"1,263","Business Administration and Management, General",2017,Study
+3,695,Information Technology,2017,Study
+4,567,Management Sciences and Quantitative Methods,2017,Study
+5,539,Project Management,2017,Study
+6,530,Marketing,2017,Study
+7,508,Data Processing and Data Processing Technology/Technician,2017,Study
+8,450,"Finance, General",2017,Study
+9,437,International Business,2017,Study
+10,301,International Business/Trade/Commerce,2017,Study
+11,261,"Business/Commerce, General",2017,Study
+12,256,Law,2017,Study
+13,217,"Marketing/Marketing Management, General",2017,Study
+14,210,International/Global Studies,2017,Study
+0,"1,226",Accounting and Finance,2018,Study
+1,"1,173",Economics,2018,Study
+2,"1,120","Business Administration and Management, General",2018,Study
+3,651,Information Technology,2018,Study
+4,565,Data Processing and Data Processing Technology/Technician,2018,Study
+5,516,Marketing,2018,Study
+6,515,Project Management,2018,Study
+7,500,Management Sciences and Quantitative Methods,2018,Study
+8,419,"Finance, General",2018,Study
+9,413,International Business,2018,Study
+10,306,International Business/Trade/Commerce,2018,Study
+11,254,Law,2018,Study
+12,244,"Business/Commerce, General",2018,Study
+13,180,International/Global Studies,2018,Study
+14,171,"Marketing/Marketing Management, General",2018,Study
+0,"1,055",Accounting and Finance,2019,Study
+1,"1,004",Economics,2019,Study
+2,927,"Business Administration and Management, General",2019,Study
+3,539,Information Technology,2019,Study
+4,532,Data Processing and Data Processing Technology/Technician,2019,Study
+5,492,"Finance, General",2019,Study
+6,453,Marketing,2019,Study
+7,428,Project Management,2019,Study
+8,428,Management Sciences and Quantitative Methods,2019,Study
+9,369,International Business/Trade/Commerce,2019,Study
+10,339,International Business,2019,Study
+11,245,Law,2019,Study
+12,220,"Business/Commerce, General",2019,Study
+13,180,International/Global Studies,2019,Study
+14,140,"Marketing/Marketing Management, General",2019,Study
+0,825,Accounting and Finance,2020,Study
+1,768,Economics,2020,Study
+2,726,"Business Administration and Management, General",2020,Study
+3,527,Data Processing and Data Processing Technology/Technician,2020,Study
+4,388,Information Technology,2020,Study
+5,383,"Finance, General",2020,Study
+6,357,Project Management,2020,Study
+7,357,Marketing,2020,Study
+8,323,Management Sciences and Quantitative Methods,2020,Study
+9,306,International Business/Trade/Commerce,2020,Study
+10,257,International Business,2020,Study
+11,215,Law,2020,Study
+12,202,"Business/Commerce, General",2020,Study
+13,164,"Human Resources Management/Personnel Administration, General",2020,Study
+14,146,International/Global Studies,2020,Study
+0,413,Accounting and Finance,2021,Study
+1,391,Economics,2021,Study
+2,306,"Business Administration and Management, General",2021,Study
+3,236,"Finance, General",2021,Study
+4,218,Information Technology,2021,Study
+5,210,Data Processing and Data Processing Technology/Technician,2021,Study
+6,209,International Business/Trade/Commerce,2021,Study
+7,192,Management Sciences and Quantitative Methods,2021,Study
+8,134,Project Management,2021,Study
+9,134,Marketing,2021,Study
+10,112,International Business,2021,Study
+11,98,Law,2021,Study
+12,70,International/Global Studies,2021,Study
+13,65,Accounting,2021,Study
+14,62,"Business/Commerce, General",2021,Study
+0,"2,552",Project Management,2010,Skill
+1,"2,115",Management,2010,Skill
+2,"1,680",Microsoft Excel,2010,Skill
+3,"1,657",Microsoft Office,2010,Skill
+4,"1,455",Business Analysis,2010,Skill
+5,"1,443",Business Strategy,2010,Skill
+6,"1,359",Analytical Skills,2010,Skill
+7,"1,264",Financial Analysis,2010,Skill
+8,"1,201",Team Management,2010,Skill
+9,"1,103",Negotiation,2010,Skill
+10,"1,041",Strategy,2010,Skill
+11,976,Marketing Strategy,2010,Skill
+12,970,English,2010,Skill
+13,945,Marketing,2010,Skill
+14,905,Data Analysis,2010,Skill
+0,"2,557",Project Management,2011,Skill
+1,"1,985",Microsoft Excel,2011,Skill
+2,"1,919",Management,2011,Skill
+3,"1,916",Microsoft Office,2011,Skill
+4,"1,373",Business Analysis,2011,Skill
+5,"1,327",Business Strategy,2011,Skill
+6,"1,277",Analytical Skills,2011,Skill
+7,"1,183",Financial Analysis,2011,Skill
+8,"1,092",Team Management,2011,Skill
+9,"1,056",English,2011,Skill
+10,"1,017",Data Analysis,2011,Skill
+11,"1,010",Negotiation,2011,Skill
+12,955,Marketing Strategy,2011,Skill
+13,897,Marketing,2011,Skill
+14,886,Strategy,2011,Skill
+0,"2,715",Project Management,2012,Skill
+1,"2,226",Microsoft Office,2012,Skill
+2,"2,222",Microsoft Excel,2012,Skill
+3,"1,971",Management,2012,Skill
+4,"1,421",Business Analysis,2012,Skill
+5,"1,359",Business Strategy,2012,Skill
+6,"1,333",Analytical Skills,2012,Skill
+7,"1,259",Financial Analysis,2012,Skill
+8,"1,214",Teamwork,2012,Skill
+9,"1,209",Data Analysis,2012,Skill
+10,"1,180",English,2012,Skill
+11,"1,156",Team Management,2012,Skill
+12,"1,032",Negotiation,2012,Skill
+13,968,Marketing,2012,Skill
+14,961,Microsoft PowerPoint,2012,Skill
+0,"2,708",Project Management,2013,Skill
+1,"2,572",Microsoft Office,2013,Skill
+2,"2,532",Microsoft Excel,2013,Skill
+3,"1,886",Management,2013,Skill
+4,"1,368",Teamwork,2013,Skill
+5,"1,303",Data Analysis,2013,Skill
+6,"1,293",Analytical Skills,2013,Skill
+7,"1,240",Business Analysis,2013,Skill
+8,"1,234",English,2013,Skill
+9,"1,197",Business Strategy,2013,Skill
+10,"1,131",Financial Analysis,2013,Skill
+11,"1,114",Team Management,2013,Skill
+12,"1,047",Microsoft PowerPoint,2013,Skill
+13,993,Negotiation,2013,Skill
+14,951,SQL,2013,Skill
+0,"2,957",Microsoft Office,2014,Skill
+1,"2,887",Microsoft Excel,2014,Skill
+2,"2,580",Project Management,2014,Skill
+3,"1,815",Management,2014,Skill
+4,"1,692",Teamwork,2014,Skill
+5,"1,357",English,2014,Skill
+6,"1,337",Data Analysis,2014,Skill
+7,"1,231",Analytical Skills,2014,Skill
+8,"1,216",Microsoft PowerPoint,2014,Skill
+9,"1,169",Business Analysis,2014,Skill
+10,"1,109",Financial Analysis,2014,Skill
+11,"1,087",Business Strategy,2014,Skill
+12,"1,086",Customer Service,2014,Skill
+13,"1,025",Negotiation,2014,Skill
+14,"1,009",SQL,2014,Skill
+0,"3,087",Microsoft Office,2015,Skill
+1,"2,943",Microsoft Excel,2015,Skill
+2,"2,601",Project Management,2015,Skill
+3,"1,855",Teamwork,2015,Skill
+4,"1,786",Management,2015,Skill
+5,"1,504",Data Analysis,2015,Skill
+6,"1,429",English,2015,Skill
+7,"1,358",Microsoft PowerPoint,2015,Skill
+8,"1,248",Analytical Skills,2015,Skill
+9,"1,207",Customer Service,2015,Skill
+10,"1,106",Microsoft Word,2015,Skill
+11,"1,067",Business Analysis,2015,Skill
+12,"1,052",SQL,2015,Skill
+13,"1,000",Financial Analysis,2015,Skill
+14,984,Business Strategy,2015,Skill
+0,"3,572",Microsoft Office,2016,Skill
+1,"3,431",Microsoft Excel,2016,Skill
+2,"2,844",Project Management,2016,Skill
+3,"2,204",Teamwork,2016,Skill
+4,"1,933",Management,2016,Skill
+5,"1,703",Data Analysis,2016,Skill
+6,"1,659",English,2016,Skill
+7,"1,482",Microsoft PowerPoint,2016,Skill
+8,"1,438",Customer Service,2016,Skill
+9,"1,409",Analytical Skills,2016,Skill
+10,"1,309",Microsoft Word,2016,Skill
+11,"1,196",SQL,2016,Skill
+12,"1,098",Negotiation,2016,Skill
+13,"1,096",Business Analysis,2016,Skill
+14,"1,052",Team Management,2016,Skill
+0,"3,570",Microsoft Office,2017,Skill
+1,"3,202",Microsoft Excel,2017,Skill
+2,"2,516",Project Management,2017,Skill
+3,"2,231",Teamwork,2017,Skill
+4,"1,823",Management,2017,Skill
+5,"1,647",English,2017,Skill
+6,"1,606",Data Analysis,2017,Skill
+7,"1,523",Customer Service,2017,Skill
+8,"1,477",Microsoft PowerPoint,2017,Skill
+9,"1,379",Analytical Skills,2017,Skill
+10,"1,347",Microsoft Word,2017,Skill
+11,"1,118",SQL,2017,Skill
+12,"1,024",Negotiation,2017,Skill
+13,980,Marketing,2017,Skill
+14,961,Leadership,2017,Skill
+0,"3,464",Microsoft Office,2018,Skill
+1,"3,187",Microsoft Excel,2018,Skill
+2,"2,249",Project Management,2018,Skill
+3,"2,183",Teamwork,2018,Skill
+4,"1,737",English,2018,Skill
+5,"1,693",Data Analysis,2018,Skill
+6,"1,645",Management,2018,Skill
+7,"1,495",Customer Service,2018,Skill
+8,"1,443",Microsoft PowerPoint,2018,Skill
+9,"1,349",Analytical Skills,2018,Skill
+10,"1,294",Microsoft Word,2018,Skill
+11,"1,125",SQL,2018,Skill
+12,986,Negotiation,2018,Skill
+13,916,Marketing,2018,Skill
+14,906,Team Management,2018,Skill
+0,"3,218",Microsoft Office,2019,Skill
+1,"2,864",Microsoft Excel,2019,Skill
+2,"1,977",Project Management,2019,Skill
+3,"1,964",Teamwork,2019,Skill
+4,"1,630",English,2019,Skill
+5,"1,403",Data Analysis,2019,Skill
+6,"1,395",Management,2019,Skill
+7,"1,307",Customer Service,2019,Skill
+8,"1,274",Microsoft PowerPoint,2019,Skill
+9,"1,274",Analytical Skills,2019,Skill
+10,"1,212",Microsoft Word,2019,Skill
+11,954,SQL,2019,Skill
+12,830,Leadership,2019,Skill
+13,813,Marketing,2019,Skill
+14,792,Communication,2019,Skill
+0,"2,562",Microsoft Office,2020,Skill
+1,"2,299",Microsoft Excel,2020,Skill
+2,"1,769",Teamwork,2020,Skill
+3,"1,435",English,2020,Skill
+4,"1,427",Project Management,2020,Skill
+5,"1,166",Data Analysis,2020,Skill
+6,"1,134",Customer Service,2020,Skill
+7,"1,092",Analytical Skills,2020,Skill
+8,"1,048",Management,2020,Skill
+9,"1,035",Microsoft PowerPoint,2020,Skill
+10,998,Microsoft Word,2020,Skill
+11,764,SQL,2020,Skill
+12,729,Communication,2020,Skill
+13,643,Social Media,2020,Skill
+14,625,Marketing,2020,Skill
+0,"1,234",Microsoft Office,2021,Skill
+1,"1,078",Microsoft Excel,2021,Skill
+2,825,Teamwork,2021,Skill
+3,707,English,2021,Skill
+4,633,Project Management,2021,Skill
+5,565,Analytical Skills,2021,Skill
+6,527,Data Analysis,2021,Skill
+7,470,Customer Service,2021,Skill
+8,458,Microsoft PowerPoint,2021,Skill
+9,438,Microsoft Word,2021,Skill
+10,416,Management,2021,Skill
+11,364,Communication,2021,Skill
+12,362,SQL,2021,Skill
+13,283,Leadership,2021,Skill
+14,267,Social Media,2021,Skill

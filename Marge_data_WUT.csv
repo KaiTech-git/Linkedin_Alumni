@@ -1,0 +1,721 @@
+,Alumni,Variable,Year,Description
+0,702,Warsaw University of Technology,2010,Company
+1,296,Accenture,2010,Company
+2,264,Procter & Gamble,2010,Company
+3,205,Citi,2010,Company
+4,177,PKN ORLEN S.A.,2010,Company
+5,160,PZU,2010,Company
+6,154,EY,2010,Company
+7,148,Orange Polska,2010,Company
+8,138,PKO Bank Polski,2010,Company
+9,131,Samsung Electronics,2010,Company
+10,130,PwC Polska,2010,Company
+11,123,Lingaro,2010,Company
+12,121,RB,2010,Company
+13,116,Netcompany,2010,Company
+14,103,Allegro,2010,Company
+0,667,Warsaw University of Technology,2011,Company
+1,287,Accenture,2011,Company
+2,255,Procter & Gamble,2011,Company
+3,194,Citi,2011,Company
+4,168,PKN ORLEN S.A.,2011,Company
+5,149,PZU,2011,Company
+6,147,EY,2011,Company
+7,132,Orange Polska,2011,Company
+8,127,PKO Bank Polski,2011,Company
+9,124,PwC Polska,2011,Company
+10,123,Samsung Electronics,2011,Company
+11,119,Lingaro,2011,Company
+12,116,RB,2011,Company
+13,115,Netcompany,2011,Company
+14,99,Allegro,2011,Company
+0,635,Warsaw University of Technology,2012,Company
+1,276,Accenture,2012,Company
+2,243,Procter & Gamble,2012,Company
+3,181,Citi,2012,Company
+4,156,PKN ORLEN S.A.,2012,Company
+5,141,EY,2012,Company
+6,135,PZU,2012,Company
+7,121,PKO Bank Polski,2012,Company
+8,121,PwC Polska,2012,Company
+9,120,Orange Polska,2012,Company
+10,113,Lingaro,2012,Company
+11,112,Samsung Electronics,2012,Company
+12,108,Netcompany,2012,Company
+13,108,RB,2012,Company
+14,94,Allegro,2012,Company
+0,601,Warsaw University of Technology,2013,Company
+1,262,Accenture,2013,Company
+2,224,Procter & Gamble,2013,Company
+3,160,Citi,2013,Company
+4,145,PKN ORLEN S.A.,2013,Company
+5,127,PZU,2013,Company
+6,124,EY,2013,Company
+7,118,PwC Polska,2013,Company
+8,110,PKO Bank Polski,2013,Company
+9,108,Orange Polska,2013,Company
+10,104,Netcompany,2013,Company
+11,102,Samsung Electronics,2013,Company
+12,100,RB,2013,Company
+13,99,Lingaro,2013,Company
+14,89,Allegro,2013,Company
+0,561,Warsaw University of Technology,2014,Company
+1,245,Accenture,2014,Company
+2,209,Procter & Gamble,2014,Company
+3,141,Citi,2014,Company
+4,127,PKN ORLEN S.A.,2014,Company
+5,120,EY,2014,Company
+6,116,PZU,2014,Company
+7,109,PwC Polska,2014,Company
+8,102,PKO Bank Polski,2014,Company
+9,98,Netcompany,2014,Company
+10,97,Orange Polska,2014,Company
+11,96,Samsung Electronics,2014,Company
+12,95,Lingaro,2014,Company
+13,88,RB,2014,Company
+14,81,Allegro,2014,Company
+0,514,Warsaw University of Technology,2015,Company
+1,223,Accenture,2015,Company
+2,193,Procter & Gamble,2015,Company
+3,121,Citi,2015,Company
+4,113,PKN ORLEN S.A.,2015,Company
+5,108,EY,2015,Company
+6,102,PwC Polska,2015,Company
+7,101,PZU,2015,Company
+8,96,PKO Bank Polski,2015,Company
+9,91,Netcompany,2015,Company
+10,89,Samsung Electronics Polska,2015,Company
+11,87,Samsung Electronics,2015,Company
+12,84,Lingaro,2015,Company
+13,83,Orange Polska,2015,Company
+14,77,RB,2015,Company
+0,460,Warsaw University of Technology,2016,Company
+1,198,Accenture,2016,Company
+2,160,Procter & Gamble,2016,Company
+3,103,Citi,2016,Company
+4,98,PKN ORLEN S.A.,2016,Company
+5,96,EY,2016,Company
+6,90,PwC Polska,2016,Company
+7,87,Netcompany,2016,Company
+8,85,PZU,2016,Company
+9,84,PKO Bank Polski,2016,Company
+10,81,Samsung Electronics Polska,2016,Company
+11,79,Samsung Electronics,2016,Company
+12,70,Lingaro,2016,Company
+13,68,RB,2016,Company
+14,67,Orange Polska,2016,Company
+0,405,Warsaw University of Technology,2017,Company
+1,163,Accenture,2017,Company
+2,131,Procter & Gamble,2017,Company
+3,89,Citi,2017,Company
+4,83,EY,2017,Company
+5,81,PKN ORLEN S.A.,2017,Company
+6,81,Netcompany,2017,Company
+7,74,Samsung Electronics Polska,2017,Company
+8,73,PwC Polska,2017,Company
+9,71,Samsung Electronics,2017,Company
+10,66,PKO Bank Polski,2017,Company
+11,66,PZU,2017,Company
+12,59,RB,2017,Company
+13,55,Orange Polska,2017,Company
+14,51,Institute of Aviation,2017,Company
+0,348,Warsaw University of Technology,2018,Company
+1,139,Accenture,2018,Company
+2,102,Procter & Gamble,2018,Company
+3,73,Netcompany,2018,Company
+4,67,Citi,2018,Company
+5,63,EY,2018,Company
+6,59,Samsung Electronics Polska,2018,Company
+7,58,Samsung Electronics,2018,Company
+8,56,PwC Polska,2018,Company
+9,52,PZU,2018,Company
+10,51,RB,2018,Company
+11,50,PKO Bank Polski,2018,Company
+12,44,Orange Polska,2018,Company
+13,41,Allegro,2018,Company
+14,40,Nielsen,2018,Company
+0,273,Warsaw University of Technology,2019,Company
+1,109,Accenture,2019,Company
+2,72,Procter & Gamble,2019,Company
+3,53,Netcompany,2019,Company
+4,48,Samsung Electronics Polska,2019,Company
+5,46,EY,2019,Company
+6,45,Samsung Electronics,2019,Company
+7,43,Citi,2019,Company
+8,43,Samorząd Studentów Politechniki Warszawskiej,2019,Company
+9,43,PwC Polska,2019,Company
+10,41,PKO Bank Polski,2019,Company
+11,37,PZU,2019,Company
+12,37,RB,2019,Company
+13,32,Orange Polska,2019,Company
+14,32,Institute of Aviation,2019,Company
+0,188,Warsaw University of Technology,2020,Company
+1,65,Accenture,2020,Company
+2,52,Procter & Gamble,2020,Company
+3,42,Samorząd Studentów Politechniki Warszawskiej,2020,Company
+4,36,Samsung Electronics Polska,2020,Company
+5,34,Netcompany,2020,Company
+6,33,Samsung Electronics,2020,Company
+7,31,PwC Polska,2020,Company
+8,27,KMD Poland,2020,Company
+9,27,RB,2020,Company
+10,26,EY,2020,Company
+11,26,Students' Space Association,2020,Company
+12,26,PKO Bank Polski,2020,Company
+13,22,Students' Robotics Association (Koło Naukowe Robotyków KNR),2020,Company
+14,22,Institute of Aviation,2020,Company
+0,115,Warsaw University of Technology,2021,Company
+1,37,Samorząd Studentów Politechniki Warszawskiej,2021,Company
+2,35,Accenture,2021,Company
+3,24,Students' Space Association,2021,Company
+4,23,Procter & Gamble,2021,Company
+5,23,Samsung Electronics,2021,Company
+6,20,KMD Poland,2021,Company
+7,19,Netcompany,2021,Company
+8,17,Students' Robotics Association (Koło Naukowe Robotyków KNR),2021,Company
+9,17,Power Engineering Academic Study Group,2021,Company
+10,16,PwC Polska,2021,Company
+11,15,Institute of Aviation,2021,Company
+12,9,Testronic,2021,Company
+13,8,BEC Poland,2021,Company
+14,7,SUNTECH SA,2021,Company
+0,"1,857",Engineering,2010,Position
+1,"1,042",Information Technology,2010,Position
+2,830,Business Development,2010,Position
+3,799,Operations,2010,Position
+4,457,Program and Project Management,2010,Position
+5,422,Arts and Design,2010,Position
+6,385,Sales,2010,Position
+7,326,Research,2010,Position
+8,266,Finance,2010,Position
+9,232,Education,2010,Position
+10,161,Consulting,2010,Position
+11,153,Support,2010,Position
+12,146,Administrative,2010,Position
+13,140,Quality Assurance,2010,Position
+14,130,Marketing,2010,Position
+0,"1,840",Engineering,2011,Position
+1,"1,046",Information Technology,2011,Position
+2,769,Business Development,2011,Position
+3,744,Operations,2011,Position
+4,423,Program and Project Management,2011,Position
+5,395,Arts and Design,2011,Position
+6,392,Sales,2011,Position
+7,302,Research,2011,Position
+8,259,Finance,2011,Position
+9,249,Education,2011,Position
+10,190,Consulting,2011,Position
+11,178,Support,2011,Position
+12,153,Administrative,2011,Position
+13,147,Quality Assurance,2011,Position
+14,129,Marketing,2011,Position
+0,"2,200",Engineering,2012,Position
+1,"1,156",Information Technology,2012,Position
+2,853,Operations,2012,Position
+3,829,Business Development,2012,Position
+4,505,Arts and Design,2012,Position
+5,442,Program and Project Management,2012,Position
+6,401,Sales,2012,Position
+7,354,Research,2012,Position
+8,295,Finance,2012,Position
+9,253,Education,2012,Position
+10,184,Consulting,2012,Position
+11,172,Administrative,2012,Position
+12,172,Quality Assurance,2012,Position
+13,151,Support,2012,Position
+14,130,Marketing,2012,Position
+0,"2,281",Engineering,2013,Position
+1,"1,089",Information Technology,2013,Position
+2,918,Operations,2013,Position
+3,792,Business Development,2013,Position
+4,463,Arts and Design,2013,Position
+5,461,Program and Project Management,2013,Position
+6,447,Sales,2013,Position
+7,337,Research,2013,Position
+8,304,Finance,2013,Position
+9,270,Education,2013,Position
+10,197,Administrative,2013,Position
+11,191,Support,2013,Position
+12,180,Consulting,2013,Position
+13,165,Quality Assurance,2013,Position
+14,138,Marketing,2013,Position
+0,"2,286",Engineering,2014,Position
+1,"1,048",Information Technology,2014,Position
+2,971,Operations,2014,Position
+3,746,Business Development,2014,Position
+4,510,Arts and Design,2014,Position
+5,432,Program and Project Management,2014,Position
+6,422,Sales,2014,Position
+7,348,Research,2014,Position
+8,304,Finance,2014,Position
+9,282,Education,2014,Position
+10,220,Administrative,2014,Position
+11,182,Support,2014,Position
+12,170,Consulting,2014,Position
+13,168,Quality Assurance,2014,Position
+14,147,Marketing,2014,Position
+0,"2,314",Engineering,2015,Position
+1,"1,134",Information Technology,2015,Position
+2,971,Operations,2015,Position
+3,729,Business Development,2015,Position
+4,478,Arts and Design,2015,Position
+5,415,Sales,2015,Position
+6,408,Program and Project Management,2015,Position
+7,335,Finance,2015,Position
+8,328,Research,2015,Position
+9,324,Education,2015,Position
+10,215,Support,2015,Position
+11,196,Administrative,2015,Position
+12,169,Marketing,2015,Position
+13,166,Consulting,2015,Position
+14,158,Quality Assurance,2015,Position
+0,"2,265",Engineering,2016,Position
+1,"1,045",Information Technology,2016,Position
+2,867,Operations,2016,Position
+3,666,Business Development,2016,Position
+4,473,Arts and Design,2016,Position
+5,363,Program and Project Management,2016,Position
+6,335,Sales,2016,Position
+7,319,Education,2016,Position
+8,306,Research,2016,Position
+9,286,Finance,2016,Position
+10,217,Administrative,2016,Position
+11,201,Support,2016,Position
+12,167,Quality Assurance,2016,Position
+13,164,Consulting,2016,Position
+14,156,Marketing,2016,Position
+0,"2,174",Engineering,2017,Position
+1,958,Information Technology,2017,Position
+2,839,Operations,2017,Position
+3,593,Business Development,2017,Position
+4,394,Arts and Design,2017,Position
+5,342,Sales,2017,Position
+6,306,Program and Project Management,2017,Position
+7,301,Education,2017,Position
+8,293,Research,2017,Position
+9,281,Finance,2017,Position
+10,196,Administrative,2017,Position
+11,177,Support,2017,Position
+12,159,Consulting,2017,Position
+13,156,Quality Assurance,2017,Position
+14,130,Marketing,2017,Position
+0,"2,069",Engineering,2018,Position
+1,866,Information Technology,2018,Position
+2,748,Operations,2018,Position
+3,512,Business Development,2018,Position
+4,384,Arts and Design,2018,Position
+5,298,Education,2018,Position
+6,277,Research,2018,Position
+7,258,Sales,2018,Position
+8,236,Program and Project Management,2018,Position
+9,234,Finance,2018,Position
+10,179,Administrative,2018,Position
+11,159,Support,2018,Position
+12,124,Quality Assurance,2018,Position
+13,120,Consulting,2018,Position
+14,116,Media and Communication,2018,Position
+0,"1,738",Engineering,2019,Position
+1,718,Information Technology,2019,Position
+2,618,Operations,2019,Position
+3,415,Business Development,2019,Position
+4,360,Arts and Design,2019,Position
+5,284,Education,2019,Position
+6,263,Research,2019,Position
+7,237,Sales,2019,Position
+8,210,Program and Project Management,2019,Position
+9,206,Finance,2019,Position
+10,173,Administrative,2019,Position
+11,158,Support,2019,Position
+12,119,Quality Assurance,2019,Position
+13,109,Consulting,2019,Position
+14,99,Media and Communication,2019,Position
+0,"1,420",Engineering,2020,Position
+1,609,Information Technology,2020,Position
+2,518,Operations,2020,Position
+3,319,Business Development,2020,Position
+4,286,Arts and Design,2020,Position
+5,254,Education,2020,Position
+6,198,Research,2020,Position
+7,161,Finance,2020,Position
+8,155,Program and Project Management,2020,Position
+9,148,Sales,2020,Position
+10,129,Administrative,2020,Position
+11,126,Support,2020,Position
+12,85,Quality Assurance,2020,Position
+13,85,Community and Social Services,2020,Position
+14,74,Consulting,2020,Position
+0,667,Engineering,2021,Position
+1,260,Information Technology,2021,Position
+2,227,Operations,2021,Position
+3,162,Business Development,2021,Position
+4,143,Arts and Design,2021,Position
+5,132,Education,2021,Position
+6,87,Research,2021,Position
+7,75,Administrative,2021,Position
+8,61,Sales,2021,Position
+9,56,Finance,2021,Position
+10,56,Program and Project Management,2021,Position
+11,44,Support,2021,Position
+12,42,Quality Assurance,2021,Position
+13,41,Community and Social Services,2021,Position
+14,37,Media and Communication,2021,Position
+0,527,Computer Science,2010,Study
+1,501,Information Technology,2010,Study
+2,327,"Business Administration and Management, General",2010,Study
+3,290,"Mechatronics, Robotics, and Automation Engineering",2010,Study
+4,226,Project Management,2010,Study
+5,211,Electrical and Electronics Engineering,2010,Study
+6,204,Computer Systems Networking and Telecommunications,2010,Study
+7,203,Electronics,2010,Study
+8,159,Economics,2010,Study
+9,153,Mechanical Engineering,2010,Study
+10,146,Architecture,2010,Study
+11,146,Computer Engineering,2010,Study
+12,143,Civil Engineering,2010,Study
+13,141,"Design and Visual Communications, General",2010,Study
+14,136,Engineering,2010,Study
+0,492,Computer Science,2011,Study
+1,463,Information Technology,2011,Study
+2,311,"Business Administration and Management, General",2011,Study
+3,286,Project Management,2011,Study
+4,281,"Mechatronics, Robotics, and Automation Engineering",2011,Study
+5,194,Computer Systems Networking and Telecommunications,2011,Study
+6,191,Electrical and Electronics Engineering,2011,Study
+7,190,Electronics,2011,Study
+8,181,Mechanical Engineering,2011,Study
+9,161,Economics,2011,Study
+10,150,Computer Engineering,2011,Study
+11,136,Architecture,2011,Study
+12,133,Engineering,2011,Study
+13,113,Marketing,2011,Study
+14,108,Transportation and Materials Moving,2011,Study
+0,586,Computer Science,2012,Study
+1,442,Information Technology,2012,Study
+2,308,"Mechatronics, Robotics, and Automation Engineering",2012,Study
+3,284,"Business Administration and Management, General",2012,Study
+4,249,Project Management,2012,Study
+5,244,Electrical and Electronics Engineering,2012,Study
+6,204,Engineering,2012,Study
+7,184,Computer Systems Networking and Telecommunications,2012,Study
+8,181,Electronics,2012,Study
+9,172,Economics,2012,Study
+10,168,Mechanical Engineering,2012,Study
+11,164,Architecture,2012,Study
+12,160,Computer Engineering,2012,Study
+13,154,Civil Engineering,2012,Study
+14,153,Transportation and Materials Moving,2012,Study
+0,572,Computer Science,2013,Study
+1,399,Information Technology,2013,Study
+2,339,"Mechatronics, Robotics, and Automation Engineering",2013,Study
+3,304,"Business Administration and Management, General",2013,Study
+4,276,Electrical and Electronics Engineering,2013,Study
+5,245,Project Management,2013,Study
+6,182,Mechanical Engineering,2013,Study
+7,178,Electronics,2013,Study
+8,168,Engineering,2013,Study
+9,168,Economics,2013,Study
+10,162,Civil Engineering,2013,Study
+11,159,Computer Engineering,2013,Study
+12,157,Computer Systems Networking and Telecommunications,2013,Study
+13,151,Architecture,2013,Study
+14,151,Power Engineering,2013,Study
+0,525,Computer Science,2014,Study
+1,369,Information Technology,2014,Study
+2,357,"Mechatronics, Robotics, and Automation Engineering",2014,Study
+3,310,"Business Administration and Management, General",2014,Study
+4,281,Electrical and Electronics Engineering,2014,Study
+5,233,Project Management,2014,Study
+6,218,Mechanical Engineering,2014,Study
+7,213,Civil Engineering,2014,Study
+8,201,Engineering,2014,Study
+9,180,Computer Systems Networking and Telecommunications,2014,Study
+10,166,Power Engineering,2014,Study
+11,163,Electronics,2014,Study
+12,158,Transportation and Materials Moving,2014,Study
+13,156,Architecture,2014,Study
+14,147,Economics,2014,Study
+0,583,Computer Science,2015,Study
+1,398,Information Technology,2015,Study
+2,315,"Mechatronics, Robotics, and Automation Engineering",2015,Study
+3,286,Electrical and Electronics Engineering,2015,Study
+4,270,"Business Administration and Management, General",2015,Study
+5,245,Mechanical Engineering,2015,Study
+6,216,Project Management,2015,Study
+7,205,Engineering,2015,Study
+8,184,Power Engineering,2015,Study
+9,180,Civil Engineering,2015,Study
+10,169,Electronics,2015,Study
+11,168,Transportation and Materials Moving,2015,Study
+12,160,Computer Systems Networking and Telecommunications,2015,Study
+13,157,"Aerospace, Aeronautical and Astronautical/Space Engineering",2015,Study
+14,147,Architecture,2015,Study
+0,604,Computer Science,2016,Study
+1,361,Information Technology,2016,Study
+2,337,"Mechatronics, Robotics, and Automation Engineering",2016,Study
+3,306,Electrical and Electronics Engineering,2016,Study
+4,259,Mechanical Engineering,2016,Study
+5,229,"Business Administration and Management, General",2016,Study
+6,222,Engineering,2016,Study
+7,191,Project Management,2016,Study
+8,165,Civil Engineering,2016,Study
+9,165,Power Engineering,2016,Study
+10,160,Transportation and Materials Moving,2016,Study
+11,145,International/Global Studies,2016,Study
+12,142,Economics,2016,Study
+13,135,Computer Systems Networking and Telecommunications,2016,Study
+14,132,"Design and Visual Communications, General",2016,Study
+0,594,Computer Science,2017,Study
+1,363,Information Technology,2017,Study
+2,327,"Mechatronics, Robotics, and Automation Engineering",2017,Study
+3,309,Electrical and Electronics Engineering,2017,Study
+4,252,Mechanical Engineering,2017,Study
+5,234,Engineering,2017,Study
+6,226,"Business Administration and Management, General",2017,Study
+7,165,Economics,2017,Study
+8,160,Data Processing and Data Processing Technology/Technician,2017,Study
+9,149,Project Management,2017,Study
+10,144,Civil Engineering,2017,Study
+11,143,Electronics,2017,Study
+12,142,International/Global Studies,2017,Study
+13,138,Power Engineering,2017,Study
+14,135,Transportation and Materials Moving,2017,Study
+0,600,Computer Science,2018,Study
+1,350,Information Technology,2018,Study
+2,339,Electrical and Electronics Engineering,2018,Study
+3,300,"Mechatronics, Robotics, and Automation Engineering",2018,Study
+4,241,Mechanical Engineering,2018,Study
+5,201,Engineering,2018,Study
+6,200,"Business Administration and Management, General",2018,Study
+7,177,Data Processing and Data Processing Technology/Technician,2018,Study
+8,177,Transportation and Materials Moving,2018,Study
+9,163,Data Science,2018,Study
+10,142,"Engineering Technology, General",2018,Study
+11,136,Economics,2018,Study
+12,136,Project Management,2018,Study
+13,124,Power Engineering,2018,Study
+14,117,Civil Engineering,2018,Study
+0,567,Computer Science,2019,Study
+1,313,Information Technology,2019,Study
+2,286,"Mechatronics, Robotics, and Automation Engineering",2019,Study
+3,263,Electrical and Electronics Engineering,2019,Study
+4,208,Mechanical Engineering,2019,Study
+5,196,"Business Administration and Management, General",2019,Study
+6,176,Data Science,2019,Study
+7,169,Engineering,2019,Study
+8,167,Data Processing and Data Processing Technology/Technician,2019,Study
+9,132,"Engineering Technology, General",2019,Study
+10,130,Transportation and Materials Moving,2019,Study
+11,129,Economics,2019,Study
+12,112,Project Management,2019,Study
+13,110,Civil Engineering,2019,Study
+14,102,Electronics,2019,Study
+0,518,Computer Science,2020,Study
+1,246,Information Technology,2020,Study
+2,229,"Mechatronics, Robotics, and Automation Engineering",2020,Study
+3,203,Electrical and Electronics Engineering,2020,Study
+4,173,Mechanical Engineering,2020,Study
+5,161,Data Science,2020,Study
+6,139,Data Processing and Data Processing Technology/Technician,2020,Study
+7,123,Engineering,2020,Study
+8,112,"Business Administration and Management, General",2020,Study
+9,106,"Engineering Technology, General",2020,Study
+10,103,Transportation and Materials Moving,2020,Study
+11,94,Project Management,2020,Study
+12,92,Economics,2020,Study
+13,91,Civil Engineering,2020,Study
+14,88,Power Engineering,2020,Study
+0,300,Computer Science,2021,Study
+1,119,"Mechatronics, Robotics, and Automation Engineering",2021,Study
+2,99,Information Technology,2021,Study
+3,72,Electrical and Electronics Engineering,2021,Study
+4,72,Data Science,2021,Study
+5,61,Mechanical Engineering,2021,Study
+6,52,"Engineering Technology, General",2021,Study
+7,46,Data Processing and Data Processing Technology/Technician,2021,Study
+8,45,Transportation and Materials Moving,2021,Study
+9,38,Mathematics,2021,Study
+10,37,Project Management,2021,Study
+11,34,Civil Engineering,2021,Study
+12,34,Power Engineering,2021,Study
+13,33,Electronics,2021,Study
+14,28,"Business Administration and Management, General",2021,Study
+0,"1,984",Microsoft Office,2010,Skill
+1,"1,667",Project Management,2010,Skill
+2,"1,272",AutoCAD,2010,Skill
+3,"1,252",Microsoft Excel,2010,Skill
+4,"1,229",SQL,2010,Skill
+5,928,Management,2010,Skill
+6,895,Java,2010,Skill
+7,752,Git,2010,Skill
+8,723,Engineering,2010,Skill
+9,715,C++,2010,Skill
+10,684,English,2010,Skill
+11,671,Python (Programming Language),2010,Skill
+12,663,JavaScript,2010,Skill
+13,638,Linux,2010,Skill
+14,632,Teamwork,2010,Skill
+0,"2,206",Microsoft Office,2011,Skill
+1,"1,699",Project Management,2011,Skill
+2,"1,455",Microsoft Excel,2011,Skill
+3,"1,375",AutoCAD,2011,Skill
+4,"1,245",SQL,2011,Skill
+5,920,Java,2011,Skill
+6,908,Management,2011,Skill
+7,819,Git,2011,Skill
+8,771,Teamwork,2011,Skill
+9,769,English,2011,Skill
+10,764,C++,2011,Skill
+11,738,Engineering,2011,Skill
+12,706,Python (Programming Language),2011,Skill
+13,705,JavaScript,2011,Skill
+14,672,Data Analysis,2011,Skill
+0,"2,606",Microsoft Office,2012,Skill
+1,"1,818",Project Management,2012,Skill
+2,"1,667",Microsoft Excel,2012,Skill
+3,"1,644",AutoCAD,2012,Skill
+4,"1,447",SQL,2012,Skill
+5,"1,162",Java,2012,Skill
+6,"1,050",Git,2012,Skill
+7,944,Python (Programming Language),2012,Skill
+8,912,C++,2012,Skill
+9,910,English,2012,Skill
+10,901,Teamwork,2012,Skill
+11,891,Management,2012,Skill
+12,820,Linux,2012,Skill
+13,812,JavaScript,2012,Skill
+14,795,Engineering,2012,Skill
+0,"2,908",Microsoft Office,2013,Skill
+1,"1,896",Microsoft Excel,2013,Skill
+2,"1,886",Project Management,2013,Skill
+3,"1,837",AutoCAD,2013,Skill
+4,"1,464",SQL,2013,Skill
+5,"1,150",Java,2013,Skill
+6,"1,099",English,2013,Skill
+7,"1,079",Git,2013,Skill
+8,"1,060",Teamwork,2013,Skill
+9,"1,055",Python (Programming Language),2013,Skill
+10,"1,040",C++,2013,Skill
+11,980,Management,2013,Skill
+12,971,Microsoft Word,2013,Skill
+13,873,MATLAB,2013,Skill
+14,861,Engineering,2013,Skill
+0,"3,232",Microsoft Office,2014,Skill
+1,"2,012",Microsoft Excel,2014,Skill
+2,"2,002",AutoCAD,2014,Skill
+3,"1,866",Project Management,2014,Skill
+4,"1,540",SQL,2014,Skill
+5,"1,199",Teamwork,2014,Skill
+6,"1,168",English,2014,Skill
+7,"1,137",Java,2014,Skill
+8,"1,065",Git,2014,Skill
+9,"1,059",Python (Programming Language),2014,Skill
+10,"1,054",C++,2014,Skill
+11,"1,016",Microsoft Word,2014,Skill
+12,"1,009",Management,2014,Skill
+13,896,MATLAB,2014,Skill
+14,882,Engineering,2014,Skill
+0,"3,431",Microsoft Office,2015,Skill
+1,"2,175",Microsoft Excel,2015,Skill
+2,"2,034",AutoCAD,2015,Skill
+3,"1,809",Project Management,2015,Skill
+4,"1,545",SQL,2015,Skill
+5,"1,364",Teamwork,2015,Skill
+6,"1,252",English,2015,Skill
+7,"1,187",Java,2015,Skill
+8,"1,141",Python (Programming Language),2015,Skill
+9,"1,121",C++,2015,Skill
+10,"1,105",Git,2015,Skill
+11,"1,089",Microsoft Word,2015,Skill
+12,"1,023",Management,2015,Skill
+13,957,MATLAB,2015,Skill
+14,922,Data Analysis,2015,Skill
+0,"3,191",Microsoft Office,2016,Skill
+1,"2,009",Microsoft Excel,2016,Skill
+2,"1,938",AutoCAD,2016,Skill
+3,"1,687",Project Management,2016,Skill
+4,"1,554",SQL,2016,Skill
+5,"1,333",Teamwork,2016,Skill
+6,"1,328",English,2016,Skill
+7,"1,214",Java,2016,Skill
+8,"1,171",Python (Programming Language),2016,Skill
+9,"1,153",Git,2016,Skill
+10,"1,093",C++,2016,Skill
+11,"1,061",Microsoft Word,2016,Skill
+12,908,MATLAB,2016,Skill
+13,891,Management,2016,Skill
+14,874,Microsoft PowerPoint,2016,Skill
+0,"2,981",Microsoft Office,2017,Skill
+1,"1,947",Microsoft Excel,2017,Skill
+2,"1,823",AutoCAD,2017,Skill
+3,"1,527",SQL,2017,Skill
+4,"1,487",Project Management,2017,Skill
+5,"1,369",English,2017,Skill
+6,"1,356",Teamwork,2017,Skill
+7,"1,273",Python (Programming Language),2017,Skill
+8,"1,163",Java,2017,Skill
+9,"1,136",Git,2017,Skill
+10,"1,135",C++,2017,Skill
+11,"1,026",Microsoft Word,2017,Skill
+12,956,MATLAB,2017,Skill
+13,906,Data Analysis,2017,Skill
+14,884,Microsoft PowerPoint,2017,Skill
+0,"2,724",Microsoft Office,2018,Skill
+1,"1,799",Microsoft Excel,2018,Skill
+2,"1,671",AutoCAD,2018,Skill
+3,"1,514",SQL,2018,Skill
+4,"1,343",Python (Programming Language),2018,Skill
+5,"1,312",Teamwork,2018,Skill
+6,"1,304",Project Management,2018,Skill
+7,"1,291",English,2018,Skill
+8,"1,182",Java,2018,Skill
+9,"1,118",Git,2018,Skill
+10,"1,099",C++,2018,Skill
+11,959,Microsoft Word,2018,Skill
+12,917,MATLAB,2018,Skill
+13,855,Data Analysis,2018,Skill
+14,797,Analytical Skills,2018,Skill
+0,"2,466",Microsoft Office,2019,Skill
+1,"1,557",Microsoft Excel,2019,Skill
+2,"1,471",AutoCAD,2019,Skill
+3,"1,296",English,2019,Skill
+4,"1,260",SQL,2019,Skill
+5,"1,217",Python (Programming Language),2019,Skill
+6,"1,200",Teamwork,2019,Skill
+7,"1,074",Project Management,2019,Skill
+8,975,C++,2019,Skill
+9,960,Java,2019,Skill
+10,958,Git,2019,Skill
+11,820,MATLAB,2019,Skill
+12,805,Microsoft Word,2019,Skill
+13,777,Data Analysis,2019,Skill
+14,732,Analytical Skills,2019,Skill
+0,"1,943",Microsoft Office,2020,Skill
+1,"1,244",Microsoft Excel,2020,Skill
+2,"1,175",AutoCAD,2020,Skill
+3,"1,145",English,2020,Skill
+4,"1,104",Python (Programming Language),2020,Skill
+5,"1,067",SQL,2020,Skill
+6,930,Teamwork,2020,Skill
+7,896,C++,2020,Skill
+8,869,Git,2020,Skill
+9,842,Java,2020,Skill
+10,828,Project Management,2020,Skill
+11,695,MATLAB,2020,Skill
+12,657,Data Analysis,2020,Skill
+13,625,Analytical Skills,2020,Skill
+14,618,Microsoft Word,2020,Skill
+0,857,Microsoft Office,2021,Skill
+1,618,Python (Programming Language),2021,Skill
+2,589,English,2021,Skill
+3,557,SQL,2021,Skill
+4,553,Microsoft Excel,2021,Skill
+5,548,AutoCAD,2021,Skill
+6,516,C++,2021,Skill
+7,490,Git,2021,Skill
+8,476,Java,2021,Skill
+9,420,Teamwork,2021,Skill
+10,361,MATLAB,2021,Skill
+11,340,Project Management,2021,Skill
+12,329,Analytical Skills,2021,Skill
+13,320,C (Programming Language),2021,Skill
+14,294,Linux,2021,Skill

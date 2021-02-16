@@ -1,0 +1,721 @@
+,Description,Year,Variable,variable,value
+0,Company,2010,Warsaw University of Technology,Alumni,702
+1,Company,2010,Accenture,Alumni,296
+2,Company,2010,Procter & Gamble,Alumni,264
+3,Company,2010,Citi,Alumni,205
+4,Company,2010,PKN ORLEN S.A.,Alumni,177
+5,Company,2010,PZU,Alumni,160
+6,Company,2010,EY,Alumni,154
+7,Company,2010,Orange Polska,Alumni,148
+8,Company,2010,PKO Bank Polski,Alumni,138
+9,Company,2010,Samsung Electronics,Alumni,131
+10,Company,2010,PwC Polska,Alumni,130
+11,Company,2010,Lingaro,Alumni,123
+12,Company,2010,RB,Alumni,121
+13,Company,2010,Netcompany,Alumni,116
+14,Company,2010,Allegro,Alumni,103
+15,Company,2011,Warsaw University of Technology,Alumni,667
+16,Company,2011,Accenture,Alumni,287
+17,Company,2011,Procter & Gamble,Alumni,255
+18,Company,2011,Citi,Alumni,194
+19,Company,2011,PKN ORLEN S.A.,Alumni,168
+20,Company,2011,PZU,Alumni,149
+21,Company,2011,EY,Alumni,147
+22,Company,2011,Orange Polska,Alumni,132
+23,Company,2011,PKO Bank Polski,Alumni,127
+24,Company,2011,PwC Polska,Alumni,124
+25,Company,2011,Samsung Electronics,Alumni,123
+26,Company,2011,Lingaro,Alumni,119
+27,Company,2011,RB,Alumni,116
+28,Company,2011,Netcompany,Alumni,115
+29,Company,2011,Allegro,Alumni,99
+30,Company,2012,Warsaw University of Technology,Alumni,635
+31,Company,2012,Accenture,Alumni,276
+32,Company,2012,Procter & Gamble,Alumni,243
+33,Company,2012,Citi,Alumni,181
+34,Company,2012,PKN ORLEN S.A.,Alumni,156
+35,Company,2012,EY,Alumni,141
+36,Company,2012,PZU,Alumni,135
+37,Company,2012,PKO Bank Polski,Alumni,121
+38,Company,2012,PwC Polska,Alumni,121
+39,Company,2012,Orange Polska,Alumni,120
+40,Company,2012,Lingaro,Alumni,113
+41,Company,2012,Samsung Electronics,Alumni,112
+42,Company,2012,Netcompany,Alumni,108
+43,Company,2012,RB,Alumni,108
+44,Company,2012,Allegro,Alumni,94
+45,Company,2013,Warsaw University of Technology,Alumni,601
+46,Company,2013,Accenture,Alumni,262
+47,Company,2013,Procter & Gamble,Alumni,224
+48,Company,2013,Citi,Alumni,160
+49,Company,2013,PKN ORLEN S.A.,Alumni,145
+50,Company,2013,PZU,Alumni,127
+51,Company,2013,EY,Alumni,124
+52,Company,2013,PwC Polska,Alumni,118
+53,Company,2013,PKO Bank Polski,Alumni,110
+54,Company,2013,Orange Polska,Alumni,108
+55,Company,2013,Netcompany,Alumni,104
+56,Company,2013,Samsung Electronics,Alumni,102
+57,Company,2013,RB,Alumni,100
+58,Company,2013,Lingaro,Alumni,99
+59,Company,2013,Allegro,Alumni,89
+60,Company,2014,Warsaw University of Technology,Alumni,561
+61,Company,2014,Accenture,Alumni,245
+62,Company,2014,Procter & Gamble,Alumni,209
+63,Company,2014,Citi,Alumni,141
+64,Company,2014,PKN ORLEN S.A.,Alumni,127
+65,Company,2014,EY,Alumni,120
+66,Company,2014,PZU,Alumni,116
+67,Company,2014,PwC Polska,Alumni,109
+68,Company,2014,PKO Bank Polski,Alumni,102
+69,Company,2014,Netcompany,Alumni,98
+70,Company,2014,Orange Polska,Alumni,97
+71,Company,2014,Samsung Electronics,Alumni,96
+72,Company,2014,Lingaro,Alumni,95
+73,Company,2014,RB,Alumni,88
+74,Company,2014,Allegro,Alumni,81
+75,Company,2015,Warsaw University of Technology,Alumni,514
+76,Company,2015,Accenture,Alumni,223
+77,Company,2015,Procter & Gamble,Alumni,193
+78,Company,2015,Citi,Alumni,121
+79,Company,2015,PKN ORLEN S.A.,Alumni,113
+80,Company,2015,EY,Alumni,108
+81,Company,2015,PwC Polska,Alumni,102
+82,Company,2015,PZU,Alumni,101
+83,Company,2015,PKO Bank Polski,Alumni,96
+84,Company,2015,Netcompany,Alumni,91
+85,Company,2015,Samsung Electronics Polska,Alumni,89
+86,Company,2015,Samsung Electronics,Alumni,87
+87,Company,2015,Lingaro,Alumni,84
+88,Company,2015,Orange Polska,Alumni,83
+89,Company,2015,RB,Alumni,77
+90,Company,2016,Warsaw University of Technology,Alumni,460
+91,Company,2016,Accenture,Alumni,198
+92,Company,2016,Procter & Gamble,Alumni,160
+93,Company,2016,Citi,Alumni,103
+94,Company,2016,PKN ORLEN S.A.,Alumni,98
+95,Company,2016,EY,Alumni,96
+96,Company,2016,PwC Polska,Alumni,90
+97,Company,2016,Netcompany,Alumni,87
+98,Company,2016,PZU,Alumni,85
+99,Company,2016,PKO Bank Polski,Alumni,84
+100,Company,2016,Samsung Electronics Polska,Alumni,81
+101,Company,2016,Samsung Electronics,Alumni,79
+102,Company,2016,Lingaro,Alumni,70
+103,Company,2016,RB,Alumni,68
+104,Company,2016,Orange Polska,Alumni,67
+105,Company,2017,Warsaw University of Technology,Alumni,405
+106,Company,2017,Accenture,Alumni,163
+107,Company,2017,Procter & Gamble,Alumni,131
+108,Company,2017,Citi,Alumni,89
+109,Company,2017,EY,Alumni,83
+110,Company,2017,PKN ORLEN S.A.,Alumni,81
+111,Company,2017,Netcompany,Alumni,81
+112,Company,2017,Samsung Electronics Polska,Alumni,74
+113,Company,2017,PwC Polska,Alumni,73
+114,Company,2017,Samsung Electronics,Alumni,71
+115,Company,2017,PKO Bank Polski,Alumni,66
+116,Company,2017,PZU,Alumni,66
+117,Company,2017,RB,Alumni,59
+118,Company,2017,Orange Polska,Alumni,55
+119,Company,2017,Institute of Aviation,Alumni,51
+120,Company,2018,Warsaw University of Technology,Alumni,348
+121,Company,2018,Accenture,Alumni,139
+122,Company,2018,Procter & Gamble,Alumni,102
+123,Company,2018,Netcompany,Alumni,73
+124,Company,2018,Citi,Alumni,67
+125,Company,2018,EY,Alumni,63
+126,Company,2018,Samsung Electronics Polska,Alumni,59
+127,Company,2018,Samsung Electronics,Alumni,58
+128,Company,2018,PwC Polska,Alumni,56
+129,Company,2018,PZU,Alumni,52
+130,Company,2018,RB,Alumni,51
+131,Company,2018,PKO Bank Polski,Alumni,50
+132,Company,2018,Orange Polska,Alumni,44
+133,Company,2018,Allegro,Alumni,41
+134,Company,2018,Nielsen,Alumni,40
+135,Company,2019,Warsaw University of Technology,Alumni,273
+136,Company,2019,Accenture,Alumni,109
+137,Company,2019,Procter & Gamble,Alumni,72
+138,Company,2019,Netcompany,Alumni,53
+139,Company,2019,Samsung Electronics Polska,Alumni,48
+140,Company,2019,EY,Alumni,46
+141,Company,2019,Samsung Electronics,Alumni,45
+142,Company,2019,Citi,Alumni,43
+143,Company,2019,Samorząd Studentów Politechniki Warszawskiej,Alumni,43
+144,Company,2019,PwC Polska,Alumni,43
+145,Company,2019,PKO Bank Polski,Alumni,41
+146,Company,2019,PZU,Alumni,37
+147,Company,2019,RB,Alumni,37
+148,Company,2019,Orange Polska,Alumni,32
+149,Company,2019,Institute of Aviation,Alumni,32
+150,Company,2020,Warsaw University of Technology,Alumni,188
+151,Company,2020,Accenture,Alumni,65
+152,Company,2020,Procter & Gamble,Alumni,52
+153,Company,2020,Samorząd Studentów Politechniki Warszawskiej,Alumni,42
+154,Company,2020,Samsung Electronics Polska,Alumni,36
+155,Company,2020,Netcompany,Alumni,34
+156,Company,2020,Samsung Electronics,Alumni,33
+157,Company,2020,PwC Polska,Alumni,31
+158,Company,2020,KMD Poland,Alumni,27
+159,Company,2020,RB,Alumni,27
+160,Company,2020,EY,Alumni,26
+161,Company,2020,Students' Space Association,Alumni,26
+162,Company,2020,PKO Bank Polski,Alumni,26
+163,Company,2020,Students' Robotics Association (Koło Naukowe Robotyków KNR),Alumni,22
+164,Company,2020,Institute of Aviation,Alumni,22
+165,Company,2021,Warsaw University of Technology,Alumni,115
+166,Company,2021,Samorząd Studentów Politechniki Warszawskiej,Alumni,37
+167,Company,2021,Accenture,Alumni,35
+168,Company,2021,Students' Space Association,Alumni,24
+169,Company,2021,Procter & Gamble,Alumni,23
+170,Company,2021,Samsung Electronics,Alumni,23
+171,Company,2021,KMD Poland,Alumni,20
+172,Company,2021,Netcompany,Alumni,19
+173,Company,2021,Students' Robotics Association (Koło Naukowe Robotyków KNR),Alumni,17
+174,Company,2021,Power Engineering Academic Study Group,Alumni,17
+175,Company,2021,PwC Polska,Alumni,16
+176,Company,2021,Institute of Aviation,Alumni,15
+177,Company,2021,Testronic,Alumni,9
+178,Company,2021,BEC Poland,Alumni,8
+179,Company,2021,SUNTECH SA,Alumni,7
+180,Position,2010,Engineering,Alumni,"1,857"
+181,Position,2010,Information Technology,Alumni,"1,042"
+182,Position,2010,Business Development,Alumni,830
+183,Position,2010,Operations,Alumni,799
+184,Position,2010,Program and Project Management,Alumni,457
+185,Position,2010,Arts and Design,Alumni,422
+186,Position,2010,Sales,Alumni,385
+187,Position,2010,Research,Alumni,326
+188,Position,2010,Finance,Alumni,266
+189,Position,2010,Education,Alumni,232
+190,Position,2010,Consulting,Alumni,161
+191,Position,2010,Support,Alumni,153
+192,Position,2010,Administrative,Alumni,146
+193,Position,2010,Quality Assurance,Alumni,140
+194,Position,2010,Marketing,Alumni,130
+195,Position,2011,Engineering,Alumni,"1,840"
+196,Position,2011,Information Technology,Alumni,"1,046"
+197,Position,2011,Business Development,Alumni,769
+198,Position,2011,Operations,Alumni,744
+199,Position,2011,Program and Project Management,Alumni,423
+200,Position,2011,Arts and Design,Alumni,395
+201,Position,2011,Sales,Alumni,392
+202,Position,2011,Research,Alumni,302
+203,Position,2011,Finance,Alumni,259
+204,Position,2011,Education,Alumni,249
+205,Position,2011,Consulting,Alumni,190
+206,Position,2011,Support,Alumni,178
+207,Position,2011,Administrative,Alumni,153
+208,Position,2011,Quality Assurance,Alumni,147
+209,Position,2011,Marketing,Alumni,129
+210,Position,2012,Engineering,Alumni,"2,200"
+211,Position,2012,Information Technology,Alumni,"1,156"
+212,Position,2012,Operations,Alumni,853
+213,Position,2012,Business Development,Alumni,829
+214,Position,2012,Arts and Design,Alumni,505
+215,Position,2012,Program and Project Management,Alumni,442
+216,Position,2012,Sales,Alumni,401
+217,Position,2012,Research,Alumni,354
+218,Position,2012,Finance,Alumni,295
+219,Position,2012,Education,Alumni,253
+220,Position,2012,Consulting,Alumni,184
+221,Position,2012,Administrative,Alumni,172
+222,Position,2012,Quality Assurance,Alumni,172
+223,Position,2012,Support,Alumni,151
+224,Position,2012,Marketing,Alumni,130
+225,Position,2013,Engineering,Alumni,"2,281"
+226,Position,2013,Information Technology,Alumni,"1,089"
+227,Position,2013,Operations,Alumni,918
+228,Position,2013,Business Development,Alumni,792
+229,Position,2013,Arts and Design,Alumni,463
+230,Position,2013,Program and Project Management,Alumni,461
+231,Position,2013,Sales,Alumni,447
+232,Position,2013,Research,Alumni,337
+233,Position,2013,Finance,Alumni,304
+234,Position,2013,Education,Alumni,270
+235,Position,2013,Administrative,Alumni,197
+236,Position,2013,Support,Alumni,191
+237,Position,2013,Consulting,Alumni,180
+238,Position,2013,Quality Assurance,Alumni,165
+239,Position,2013,Marketing,Alumni,138
+240,Position,2014,Engineering,Alumni,"2,286"
+241,Position,2014,Information Technology,Alumni,"1,048"
+242,Position,2014,Operations,Alumni,971
+243,Position,2014,Business Development,Alumni,746
+244,Position,2014,Arts and Design,Alumni,510
+245,Position,2014,Program and Project Management,Alumni,432
+246,Position,2014,Sales,Alumni,422
+247,Position,2014,Research,Alumni,348
+248,Position,2014,Finance,Alumni,304
+249,Position,2014,Education,Alumni,282
+250,Position,2014,Administrative,Alumni,220
+251,Position,2014,Support,Alumni,182
+252,Position,2014,Consulting,Alumni,170
+253,Position,2014,Quality Assurance,Alumni,168
+254,Position,2014,Marketing,Alumni,147
+255,Position,2015,Engineering,Alumni,"2,314"
+256,Position,2015,Information Technology,Alumni,"1,134"
+257,Position,2015,Operations,Alumni,971
+258,Position,2015,Business Development,Alumni,729
+259,Position,2015,Arts and Design,Alumni,478
+260,Position,2015,Sales,Alumni,415
+261,Position,2015,Program and Project Management,Alumni,408
+262,Position,2015,Finance,Alumni,335
+263,Position,2015,Research,Alumni,328
+264,Position,2015,Education,Alumni,324
+265,Position,2015,Support,Alumni,215
+266,Position,2015,Administrative,Alumni,196
+267,Position,2015,Marketing,Alumni,169
+268,Position,2015,Consulting,Alumni,166
+269,Position,2015,Quality Assurance,Alumni,158
+270,Position,2016,Engineering,Alumni,"2,265"
+271,Position,2016,Information Technology,Alumni,"1,045"
+272,Position,2016,Operations,Alumni,867
+273,Position,2016,Business Development,Alumni,666
+274,Position,2016,Arts and Design,Alumni,473
+275,Position,2016,Program and Project Management,Alumni,363
+276,Position,2016,Sales,Alumni,335
+277,Position,2016,Education,Alumni,319
+278,Position,2016,Research,Alumni,306
+279,Position,2016,Finance,Alumni,286
+280,Position,2016,Administrative,Alumni,217
+281,Position,2016,Support,Alumni,201
+282,Position,2016,Quality Assurance,Alumni,167
+283,Position,2016,Consulting,Alumni,164
+284,Position,2016,Marketing,Alumni,156
+285,Position,2017,Engineering,Alumni,"2,174"
+286,Position,2017,Information Technology,Alumni,958
+287,Position,2017,Operations,Alumni,839
+288,Position,2017,Business Development,Alumni,593
+289,Position,2017,Arts and Design,Alumni,394
+290,Position,2017,Sales,Alumni,342
+291,Position,2017,Program and Project Management,Alumni,306
+292,Position,2017,Education,Alumni,301
+293,Position,2017,Research,Alumni,293
+294,Position,2017,Finance,Alumni,281
+295,Position,2017,Administrative,Alumni,196
+296,Position,2017,Support,Alumni,177
+297,Position,2017,Consulting,Alumni,159
+298,Position,2017,Quality Assurance,Alumni,156
+299,Position,2017,Marketing,Alumni,130
+300,Position,2018,Engineering,Alumni,"2,069"
+301,Position,2018,Information Technology,Alumni,866
+302,Position,2018,Operations,Alumni,748
+303,Position,2018,Business Development,Alumni,512
+304,Position,2018,Arts and Design,Alumni,384
+305,Position,2018,Education,Alumni,298
+306,Position,2018,Research,Alumni,277
+307,Position,2018,Sales,Alumni,258
+308,Position,2018,Program and Project Management,Alumni,236
+309,Position,2018,Finance,Alumni,234
+310,Position,2018,Administrative,Alumni,179
+311,Position,2018,Support,Alumni,159
+312,Position,2018,Quality Assurance,Alumni,124
+313,Position,2018,Consulting,Alumni,120
+314,Position,2018,Media and Communication,Alumni,116
+315,Position,2019,Engineering,Alumni,"1,738"
+316,Position,2019,Information Technology,Alumni,718
+317,Position,2019,Operations,Alumni,618
+318,Position,2019,Business Development,Alumni,415
+319,Position,2019,Arts and Design,Alumni,360
+320,Position,2019,Education,Alumni,284
+321,Position,2019,Research,Alumni,263
+322,Position,2019,Sales,Alumni,237
+323,Position,2019,Program and Project Management,Alumni,210
+324,Position,2019,Finance,Alumni,206
+325,Position,2019,Administrative,Alumni,173
+326,Position,2019,Support,Alumni,158
+327,Position,2019,Quality Assurance,Alumni,119
+328,Position,2019,Consulting,Alumni,109
+329,Position,2019,Media and Communication,Alumni,99
+330,Position,2020,Engineering,Alumni,"1,420"
+331,Position,2020,Information Technology,Alumni,609
+332,Position,2020,Operations,Alumni,518
+333,Position,2020,Business Development,Alumni,319
+334,Position,2020,Arts and Design,Alumni,286
+335,Position,2020,Education,Alumni,254
+336,Position,2020,Research,Alumni,198
+337,Position,2020,Finance,Alumni,161
+338,Position,2020,Program and Project Management,Alumni,155
+339,Position,2020,Sales,Alumni,148
+340,Position,2020,Administrative,Alumni,129
+341,Position,2020,Support,Alumni,126
+342,Position,2020,Quality Assurance,Alumni,85
+343,Position,2020,Community and Social Services,Alumni,85
+344,Position,2020,Consulting,Alumni,74
+345,Position,2021,Engineering,Alumni,667
+346,Position,2021,Information Technology,Alumni,260
+347,Position,2021,Operations,Alumni,227
+348,Position,2021,Business Development,Alumni,162
+349,Position,2021,Arts and Design,Alumni,143
+350,Position,2021,Education,Alumni,132
+351,Position,2021,Research,Alumni,87
+352,Position,2021,Administrative,Alumni,75
+353,Position,2021,Sales,Alumni,61
+354,Position,2021,Finance,Alumni,56
+355,Position,2021,Program and Project Management,Alumni,56
+356,Position,2021,Support,Alumni,44
+357,Position,2021,Quality Assurance,Alumni,42
+358,Position,2021,Community and Social Services,Alumni,41
+359,Position,2021,Media and Communication,Alumni,37
+360,Study,2010,Computer Science,Alumni,527
+361,Study,2010,Information Technology,Alumni,501
+362,Study,2010,"Business Administration and Management, General",Alumni,327
+363,Study,2010,"Mechatronics, Robotics, and Automation Engineering",Alumni,290
+364,Study,2010,Project Management,Alumni,226
+365,Study,2010,Electrical and Electronics Engineering,Alumni,211
+366,Study,2010,Computer Systems Networking and Telecommunications,Alumni,204
+367,Study,2010,Electronics,Alumni,203
+368,Study,2010,Economics,Alumni,159
+369,Study,2010,Mechanical Engineering,Alumni,153
+370,Study,2010,Architecture,Alumni,146
+371,Study,2010,Computer Engineering,Alumni,146
+372,Study,2010,Civil Engineering,Alumni,143
+373,Study,2010,"Design and Visual Communications, General",Alumni,141
+374,Study,2010,Engineering,Alumni,136
+375,Study,2011,Computer Science,Alumni,492
+376,Study,2011,Information Technology,Alumni,463
+377,Study,2011,"Business Administration and Management, General",Alumni,311
+378,Study,2011,Project Management,Alumni,286
+379,Study,2011,"Mechatronics, Robotics, and Automation Engineering",Alumni,281
+380,Study,2011,Computer Systems Networking and Telecommunications,Alumni,194
+381,Study,2011,Electrical and Electronics Engineering,Alumni,191
+382,Study,2011,Electronics,Alumni,190
+383,Study,2011,Mechanical Engineering,Alumni,181
+384,Study,2011,Economics,Alumni,161
+385,Study,2011,Computer Engineering,Alumni,150
+386,Study,2011,Architecture,Alumni,136
+387,Study,2011,Engineering,Alumni,133
+388,Study,2011,Marketing,Alumni,113
+389,Study,2011,Transportation and Materials Moving,Alumni,108
+390,Study,2012,Computer Science,Alumni,586
+391,Study,2012,Information Technology,Alumni,442
+392,Study,2012,"Mechatronics, Robotics, and Automation Engineering",Alumni,308
+393,Study,2012,"Business Administration and Management, General",Alumni,284
+394,Study,2012,Project Management,Alumni,249
+395,Study,2012,Electrical and Electronics Engineering,Alumni,244
+396,Study,2012,Engineering,Alumni,204
+397,Study,2012,Computer Systems Networking and Telecommunications,Alumni,184
+398,Study,2012,Electronics,Alumni,181
+399,Study,2012,Economics,Alumni,172
+400,Study,2012,Mechanical Engineering,Alumni,168
+401,Study,2012,Architecture,Alumni,164
+402,Study,2012,Computer Engineering,Alumni,160
+403,Study,2012,Civil Engineering,Alumni,154
+404,Study,2012,Transportation and Materials Moving,Alumni,153
+405,Study,2013,Computer Science,Alumni,572
+406,Study,2013,Information Technology,Alumni,399
+407,Study,2013,"Mechatronics, Robotics, and Automation Engineering",Alumni,339
+408,Study,2013,"Business Administration and Management, General",Alumni,304
+409,Study,2013,Electrical and Electronics Engineering,Alumni,276
+410,Study,2013,Project Management,Alumni,245
+411,Study,2013,Mechanical Engineering,Alumni,182
+412,Study,2013,Electronics,Alumni,178
+413,Study,2013,Engineering,Alumni,168
+414,Study,2013,Economics,Alumni,168
+415,Study,2013,Civil Engineering,Alumni,162
+416,Study,2013,Computer Engineering,Alumni,159
+417,Study,2013,Computer Systems Networking and Telecommunications,Alumni,157
+418,Study,2013,Architecture,Alumni,151
+419,Study,2013,Power Engineering,Alumni,151
+420,Study,2014,Computer Science,Alumni,525
+421,Study,2014,Information Technology,Alumni,369
+422,Study,2014,"Mechatronics, Robotics, and Automation Engineering",Alumni,357
+423,Study,2014,"Business Administration and Management, General",Alumni,310
+424,Study,2014,Electrical and Electronics Engineering,Alumni,281
+425,Study,2014,Project Management,Alumni,233
+426,Study,2014,Mechanical Engineering,Alumni,218
+427,Study,2014,Civil Engineering,Alumni,213
+428,Study,2014,Engineering,Alumni,201
+429,Study,2014,Computer Systems Networking and Telecommunications,Alumni,180
+430,Study,2014,Power Engineering,Alumni,166
+431,Study,2014,Electronics,Alumni,163
+432,Study,2014,Transportation and Materials Moving,Alumni,158
+433,Study,2014,Architecture,Alumni,156
+434,Study,2014,Economics,Alumni,147
+435,Study,2015,Computer Science,Alumni,583
+436,Study,2015,Information Technology,Alumni,398
+437,Study,2015,"Mechatronics, Robotics, and Automation Engineering",Alumni,315
+438,Study,2015,Electrical and Electronics Engineering,Alumni,286
+439,Study,2015,"Business Administration and Management, General",Alumni,270
+440,Study,2015,Mechanical Engineering,Alumni,245
+441,Study,2015,Project Management,Alumni,216
+442,Study,2015,Engineering,Alumni,205
+443,Study,2015,Power Engineering,Alumni,184
+444,Study,2015,Civil Engineering,Alumni,180
+445,Study,2015,Electronics,Alumni,169
+446,Study,2015,Transportation and Materials Moving,Alumni,168
+447,Study,2015,Computer Systems Networking and Telecommunications,Alumni,160
+448,Study,2015,"Aerospace, Aeronautical and Astronautical/Space Engineering",Alumni,157
+449,Study,2015,Architecture,Alumni,147
+450,Study,2016,Computer Science,Alumni,604
+451,Study,2016,Information Technology,Alumni,361
+452,Study,2016,"Mechatronics, Robotics, and Automation Engineering",Alumni,337
+453,Study,2016,Electrical and Electronics Engineering,Alumni,306
+454,Study,2016,Mechanical Engineering,Alumni,259
+455,Study,2016,"Business Administration and Management, General",Alumni,229
+456,Study,2016,Engineering,Alumni,222
+457,Study,2016,Project Management,Alumni,191
+458,Study,2016,Civil Engineering,Alumni,165
+459,Study,2016,Power Engineering,Alumni,165
+460,Study,2016,Transportation and Materials Moving,Alumni,160
+461,Study,2016,International/Global Studies,Alumni,145
+462,Study,2016,Economics,Alumni,142
+463,Study,2016,Computer Systems Networking and Telecommunications,Alumni,135
+464,Study,2016,"Design and Visual Communications, General",Alumni,132
+465,Study,2017,Computer Science,Alumni,594
+466,Study,2017,Information Technology,Alumni,363
+467,Study,2017,"Mechatronics, Robotics, and Automation Engineering",Alumni,327
+468,Study,2017,Electrical and Electronics Engineering,Alumni,309
+469,Study,2017,Mechanical Engineering,Alumni,252
+470,Study,2017,Engineering,Alumni,234
+471,Study,2017,"Business Administration and Management, General",Alumni,226
+472,Study,2017,Economics,Alumni,165
+473,Study,2017,Data Processing and Data Processing Technology/Technician,Alumni,160
+474,Study,2017,Project Management,Alumni,149
+475,Study,2017,Civil Engineering,Alumni,144
+476,Study,2017,Electronics,Alumni,143
+477,Study,2017,International/Global Studies,Alumni,142
+478,Study,2017,Power Engineering,Alumni,138
+479,Study,2017,Transportation and Materials Moving,Alumni,135
+480,Study,2018,Computer Science,Alumni,600
+481,Study,2018,Information Technology,Alumni,350
+482,Study,2018,Electrical and Electronics Engineering,Alumni,339
+483,Study,2018,"Mechatronics, Robotics, and Automation Engineering",Alumni,300
+484,Study,2018,Mechanical Engineering,Alumni,241
+485,Study,2018,Engineering,Alumni,201
+486,Study,2018,"Business Administration and Management, General",Alumni,200
+487,Study,2018,Data Processing and Data Processing Technology/Technician,Alumni,177
+488,Study,2018,Transportation and Materials Moving,Alumni,177
+489,Study,2018,Data Science,Alumni,163
+490,Study,2018,"Engineering Technology, General",Alumni,142
+491,Study,2018,Economics,Alumni,136
+492,Study,2018,Project Management,Alumni,136
+493,Study,2018,Power Engineering,Alumni,124
+494,Study,2018,Civil Engineering,Alumni,117
+495,Study,2019,Computer Science,Alumni,567
+496,Study,2019,Information Technology,Alumni,313
+497,Study,2019,"Mechatronics, Robotics, and Automation Engineering",Alumni,286
+498,Study,2019,Electrical and Electronics Engineering,Alumni,263
+499,Study,2019,Mechanical Engineering,Alumni,208
+500,Study,2019,"Business Administration and Management, General",Alumni,196
+501,Study,2019,Data Science,Alumni,176
+502,Study,2019,Engineering,Alumni,169
+503,Study,2019,Data Processing and Data Processing Technology/Technician,Alumni,167
+504,Study,2019,"Engineering Technology, General",Alumni,132
+505,Study,2019,Transportation and Materials Moving,Alumni,130
+506,Study,2019,Economics,Alumni,129
+507,Study,2019,Project Management,Alumni,112
+508,Study,2019,Civil Engineering,Alumni,110
+509,Study,2019,Electronics,Alumni,102
+510,Study,2020,Computer Science,Alumni,518
+511,Study,2020,Information Technology,Alumni,246
+512,Study,2020,"Mechatronics, Robotics, and Automation Engineering",Alumni,229
+513,Study,2020,Electrical and Electronics Engineering,Alumni,203
+514,Study,2020,Mechanical Engineering,Alumni,173
+515,Study,2020,Data Science,Alumni,161
+516,Study,2020,Data Processing and Data Processing Technology/Technician,Alumni,139
+517,Study,2020,Engineering,Alumni,123
+518,Study,2020,"Business Administration and Management, General",Alumni,112
+519,Study,2020,"Engineering Technology, General",Alumni,106
+520,Study,2020,Transportation and Materials Moving,Alumni,103
+521,Study,2020,Project Management,Alumni,94
+522,Study,2020,Economics,Alumni,92
+523,Study,2020,Civil Engineering,Alumni,91
+524,Study,2020,Power Engineering,Alumni,88
+525,Study,2021,Computer Science,Alumni,300
+526,Study,2021,"Mechatronics, Robotics, and Automation Engineering",Alumni,119
+527,Study,2021,Information Technology,Alumni,99
+528,Study,2021,Electrical and Electronics Engineering,Alumni,72
+529,Study,2021,Data Science,Alumni,72
+530,Study,2021,Mechanical Engineering,Alumni,61
+531,Study,2021,"Engineering Technology, General",Alumni,52
+532,Study,2021,Data Processing and Data Processing Technology/Technician,Alumni,46
+533,Study,2021,Transportation and Materials Moving,Alumni,45
+534,Study,2021,Mathematics,Alumni,38
+535,Study,2021,Project Management,Alumni,37
+536,Study,2021,Civil Engineering,Alumni,34
+537,Study,2021,Power Engineering,Alumni,34
+538,Study,2021,Electronics,Alumni,33
+539,Study,2021,"Business Administration and Management, General",Alumni,28
+540,Skill,2010,Microsoft Office,Alumni,"1,984"
+541,Skill,2010,Project Management,Alumni,"1,667"
+542,Skill,2010,AutoCAD,Alumni,"1,272"
+543,Skill,2010,Microsoft Excel,Alumni,"1,252"
+544,Skill,2010,SQL,Alumni,"1,229"
+545,Skill,2010,Management,Alumni,928
+546,Skill,2010,Java,Alumni,895
+547,Skill,2010,Git,Alumni,752
+548,Skill,2010,Engineering,Alumni,723
+549,Skill,2010,C++,Alumni,715
+550,Skill,2010,English,Alumni,684
+551,Skill,2010,Python (Programming Language),Alumni,671
+552,Skill,2010,JavaScript,Alumni,663
+553,Skill,2010,Linux,Alumni,638
+554,Skill,2010,Teamwork,Alumni,632
+555,Skill,2011,Microsoft Office,Alumni,"2,206"
+556,Skill,2011,Project Management,Alumni,"1,699"
+557,Skill,2011,Microsoft Excel,Alumni,"1,455"
+558,Skill,2011,AutoCAD,Alumni,"1,375"
+559,Skill,2011,SQL,Alumni,"1,245"
+560,Skill,2011,Java,Alumni,920
+561,Skill,2011,Management,Alumni,908
+562,Skill,2011,Git,Alumni,819
+563,Skill,2011,Teamwork,Alumni,771
+564,Skill,2011,English,Alumni,769
+565,Skill,2011,C++,Alumni,764
+566,Skill,2011,Engineering,Alumni,738
+567,Skill,2011,Python (Programming Language),Alumni,706
+568,Skill,2011,JavaScript,Alumni,705
+569,Skill,2011,Data Analysis,Alumni,672
+570,Skill,2012,Microsoft Office,Alumni,"2,606"
+571,Skill,2012,Project Management,Alumni,"1,818"
+572,Skill,2012,Microsoft Excel,Alumni,"1,667"
+573,Skill,2012,AutoCAD,Alumni,"1,644"
+574,Skill,2012,SQL,Alumni,"1,447"
+575,Skill,2012,Java,Alumni,"1,162"
+576,Skill,2012,Git,Alumni,"1,050"
+577,Skill,2012,Python (Programming Language),Alumni,944
+578,Skill,2012,C++,Alumni,912
+579,Skill,2012,English,Alumni,910
+580,Skill,2012,Teamwork,Alumni,901
+581,Skill,2012,Management,Alumni,891
+582,Skill,2012,Linux,Alumni,820
+583,Skill,2012,JavaScript,Alumni,812
+584,Skill,2012,Engineering,Alumni,795
+585,Skill,2013,Microsoft Office,Alumni,"2,908"
+586,Skill,2013,Microsoft Excel,Alumni,"1,896"
+587,Skill,2013,Project Management,Alumni,"1,886"
+588,Skill,2013,AutoCAD,Alumni,"1,837"
+589,Skill,2013,SQL,Alumni,"1,464"
+590,Skill,2013,Java,Alumni,"1,150"
+591,Skill,2013,English,Alumni,"1,099"
+592,Skill,2013,Git,Alumni,"1,079"
+593,Skill,2013,Teamwork,Alumni,"1,060"
+594,Skill,2013,Python (Programming Language),Alumni,"1,055"
+595,Skill,2013,C++,Alumni,"1,040"
+596,Skill,2013,Management,Alumni,980
+597,Skill,2013,Microsoft Word,Alumni,971
+598,Skill,2013,MATLAB,Alumni,873
+599,Skill,2013,Engineering,Alumni,861
+600,Skill,2014,Microsoft Office,Alumni,"3,232"
+601,Skill,2014,Microsoft Excel,Alumni,"2,012"
+602,Skill,2014,AutoCAD,Alumni,"2,002"
+603,Skill,2014,Project Management,Alumni,"1,866"
+604,Skill,2014,SQL,Alumni,"1,540"
+605,Skill,2014,Teamwork,Alumni,"1,199"
+606,Skill,2014,English,Alumni,"1,168"
+607,Skill,2014,Java,Alumni,"1,137"
+608,Skill,2014,Git,Alumni,"1,065"
+609,Skill,2014,Python (Programming Language),Alumni,"1,059"
+610,Skill,2014,C++,Alumni,"1,054"
+611,Skill,2014,Microsoft Word,Alumni,"1,016"
+612,Skill,2014,Management,Alumni,"1,009"
+613,Skill,2014,MATLAB,Alumni,896
+614,Skill,2014,Engineering,Alumni,882
+615,Skill,2015,Microsoft Office,Alumni,"3,431"
+616,Skill,2015,Microsoft Excel,Alumni,"2,175"
+617,Skill,2015,AutoCAD,Alumni,"2,034"
+618,Skill,2015,Project Management,Alumni,"1,809"
+619,Skill,2015,SQL,Alumni,"1,545"
+620,Skill,2015,Teamwork,Alumni,"1,364"
+621,Skill,2015,English,Alumni,"1,252"
+622,Skill,2015,Java,Alumni,"1,187"
+623,Skill,2015,Python (Programming Language),Alumni,"1,141"
+624,Skill,2015,C++,Alumni,"1,121"
+625,Skill,2015,Git,Alumni,"1,105"
+626,Skill,2015,Microsoft Word,Alumni,"1,089"
+627,Skill,2015,Management,Alumni,"1,023"
+628,Skill,2015,MATLAB,Alumni,957
+629,Skill,2015,Data Analysis,Alumni,922
+630,Skill,2016,Microsoft Office,Alumni,"3,191"
+631,Skill,2016,Microsoft Excel,Alumni,"2,009"
+632,Skill,2016,AutoCAD,Alumni,"1,938"
+633,Skill,2016,Project Management,Alumni,"1,687"
+634,Skill,2016,SQL,Alumni,"1,554"
+635,Skill,2016,Teamwork,Alumni,"1,333"
+636,Skill,2016,English,Alumni,"1,328"
+637,Skill,2016,Java,Alumni,"1,214"
+638,Skill,2016,Python (Programming Language),Alumni,"1,171"
+639,Skill,2016,Git,Alumni,"1,153"
+640,Skill,2016,C++,Alumni,"1,093"
+641,Skill,2016,Microsoft Word,Alumni,"1,061"
+642,Skill,2016,MATLAB,Alumni,908
+643,Skill,2016,Management,Alumni,891
+644,Skill,2016,Microsoft PowerPoint,Alumni,874
+645,Skill,2017,Microsoft Office,Alumni,"2,981"
+646,Skill,2017,Microsoft Excel,Alumni,"1,947"
+647,Skill,2017,AutoCAD,Alumni,"1,823"
+648,Skill,2017,SQL,Alumni,"1,527"
+649,Skill,2017,Project Management,Alumni,"1,487"
+650,Skill,2017,English,Alumni,"1,369"
+651,Skill,2017,Teamwork,Alumni,"1,356"
+652,Skill,2017,Python (Programming Language),Alumni,"1,273"
+653,Skill,2017,Java,Alumni,"1,163"
+654,Skill,2017,Git,Alumni,"1,136"
+655,Skill,2017,C++,Alumni,"1,135"
+656,Skill,2017,Microsoft Word,Alumni,"1,026"
+657,Skill,2017,MATLAB,Alumni,956
+658,Skill,2017,Data Analysis,Alumni,906
+659,Skill,2017,Microsoft PowerPoint,Alumni,884
+660,Skill,2018,Microsoft Office,Alumni,"2,724"
+661,Skill,2018,Microsoft Excel,Alumni,"1,799"
+662,Skill,2018,AutoCAD,Alumni,"1,671"
+663,Skill,2018,SQL,Alumni,"1,514"
+664,Skill,2018,Python (Programming Language),Alumni,"1,343"
+665,Skill,2018,Teamwork,Alumni,"1,312"
+666,Skill,2018,Project Management,Alumni,"1,304"
+667,Skill,2018,English,Alumni,"1,291"
+668,Skill,2018,Java,Alumni,"1,182"
+669,Skill,2018,Git,Alumni,"1,118"
+670,Skill,2018,C++,Alumni,"1,099"
+671,Skill,2018,Microsoft Word,Alumni,959
+672,Skill,2018,MATLAB,Alumni,917
+673,Skill,2018,Data Analysis,Alumni,855
+674,Skill,2018,Analytical Skills,Alumni,797
+675,Skill,2019,Microsoft Office,Alumni,"2,466"
+676,Skill,2019,Microsoft Excel,Alumni,"1,557"
+677,Skill,2019,AutoCAD,Alumni,"1,471"
+678,Skill,2019,English,Alumni,"1,296"
+679,Skill,2019,SQL,Alumni,"1,260"
+680,Skill,2019,Python (Programming Language),Alumni,"1,217"
+681,Skill,2019,Teamwork,Alumni,"1,200"
+682,Skill,2019,Project Management,Alumni,"1,074"
+683,Skill,2019,C++,Alumni,975
+684,Skill,2019,Java,Alumni,960
+685,Skill,2019,Git,Alumni,958
+686,Skill,2019,MATLAB,Alumni,820
+687,Skill,2019,Microsoft Word,Alumni,805
+688,Skill,2019,Data Analysis,Alumni,777
+689,Skill,2019,Analytical Skills,Alumni,732
+690,Skill,2020,Microsoft Office,Alumni,"1,943"
+691,Skill,2020,Microsoft Excel,Alumni,"1,244"
+692,Skill,2020,AutoCAD,Alumni,"1,175"
+693,Skill,2020,English,Alumni,"1,145"
+694,Skill,2020,Python (Programming Language),Alumni,"1,104"
+695,Skill,2020,SQL,Alumni,"1,067"
+696,Skill,2020,Teamwork,Alumni,930
+697,Skill,2020,C++,Alumni,896
+698,Skill,2020,Git,Alumni,869
+699,Skill,2020,Java,Alumni,842
+700,Skill,2020,Project Management,Alumni,828
+701,Skill,2020,MATLAB,Alumni,695
+702,Skill,2020,Data Analysis,Alumni,657
+703,Skill,2020,Analytical Skills,Alumni,625
+704,Skill,2020,Microsoft Word,Alumni,618
+705,Skill,2021,Microsoft Office,Alumni,857
+706,Skill,2021,Python (Programming Language),Alumni,618
+707,Skill,2021,English,Alumni,589
+708,Skill,2021,SQL,Alumni,557
+709,Skill,2021,Microsoft Excel,Alumni,553
+710,Skill,2021,AutoCAD,Alumni,548
+711,Skill,2021,C++,Alumni,516
+712,Skill,2021,Git,Alumni,490
+713,Skill,2021,Java,Alumni,476
+714,Skill,2021,Teamwork,Alumni,420
+715,Skill,2021,MATLAB,Alumni,361
+716,Skill,2021,Project Management,Alumni,340
+717,Skill,2021,Analytical Skills,Alumni,329
+718,Skill,2021,C (Programming Language),Alumni,320
+719,Skill,2021,Linux,Alumni,294

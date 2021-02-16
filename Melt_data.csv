@@ -1,0 +1,721 @@
+,Description,Year,Variable,variable,value
+0,Company,2010,Citi,Alumni,623
+1,Company,2010,EY,Alumni,564
+2,Company,2010,Accenture,Alumni,533
+3,Company,2010,PwC Polska,Alumni,382
+4,Company,2010,Deloitte,Alumni,362
+5,Company,2010,Procter & Gamble,Alumni,283
+6,Company,2010,PZU,Alumni,268
+7,Company,2010,mBank S.A.,Alumni,243
+8,Company,2010,KPMG Poland,Alumni,234
+9,Company,2010,JLL,Alumni,217
+10,Company,2010,Santander Bank Polska,Alumni,200
+11,Company,2010,AstraZeneca,Alumni,196
+12,Company,2010,PwC,Alumni,189
+13,Company,2010,SGH Warsaw School of Economics,Alumni,167
+14,Company,2010,RB,Alumni,133
+15,Company,2011,Citi,Alumni,574
+16,Company,2011,EY,Alumni,527
+17,Company,2011,Accenture,Alumni,502
+18,Company,2011,PwC Polska,Alumni,368
+19,Company,2011,Deloitte,Alumni,338
+20,Company,2011,Procter & Gamble,Alumni,264
+21,Company,2011,PZU,Alumni,253
+22,Company,2011,KPMG Poland,Alumni,227
+23,Company,2011,mBank S.A.,Alumni,225
+24,Company,2011,JLL,Alumni,203
+25,Company,2011,AstraZeneca,Alumni,190
+26,Company,2011,PwC,Alumni,180
+27,Company,2011,Santander Bank Polska,Alumni,176
+28,Company,2011,SGH Warsaw School of Economics,Alumni,161
+29,Company,2011,RB,Alumni,128
+30,Company,2012,Citi,Alumni,107
+31,Company,2012,Accenture,Alumni,102
+32,Company,2012,EY,Alumni,89
+33,Company,2012,PwC Polska,Alumni,64
+34,Company,2012,Procter & Gamble,Alumni,56
+35,Company,2012,mBank S.A.,Alumni,52
+36,Company,2012,Deloitte,Alumni,49
+37,Company,2012,PKO Bank Polski,Alumni,47
+38,Company,2012,PZU,Alumni,47
+39,Company,2012,JLL,Alumni,47
+40,Company,2012,Bank Pekao,Alumni,43
+41,Company,2012,SGH Warsaw School of Economics,Alumni,41
+42,Company,2012,AstraZeneca,Alumni,38
+43,Company,2012,BNP Paribas Bank Polska,Alumni,34
+44,Company,2012,Narodowy Bank Polski (NBP),Alumni,27
+45,Company,2013,Citi,Alumni,484
+46,Company,2013,EY,Alumni,464
+47,Company,2013,Accenture,Alumni,434
+48,Company,2013,PwC Polska,Alumni,337
+49,Company,2013,Deloitte,Alumni,309
+50,Company,2013,Procter & Gamble,Alumni,242
+51,Company,2013,PZU,Alumni,219
+52,Company,2013,KPMG Poland,Alumni,211
+53,Company,2013,mBank S.A.,Alumni,191
+54,Company,2013,JLL,Alumni,176
+55,Company,2013,AstraZeneca,Alumni,167
+56,Company,2013,Bank Pekao,Alumni,165
+57,Company,2013,PwC,Alumni,162
+58,Company,2013,SGH Warsaw School of Economics,Alumni,138
+59,Company,2013,CEMS Club Warsaw,Alumni,110
+60,Company,2014,Citi,Alumni,447
+61,Company,2014,EY,Alumni,435
+62,Company,2014,Accenture,Alumni,398
+63,Company,2014,PwC Polska,Alumni,321
+64,Company,2014,Deloitte,Alumni,279
+65,Company,2014,Procter & Gamble,Alumni,226
+66,Company,2014,KPMG Poland,Alumni,196
+67,Company,2014,PZU,Alumni,190
+68,Company,2014,PKO Bank Polski,Alumni,181
+69,Company,2014,JLL,Alumni,162
+70,Company,2014,BNP Paribas Securities Services,Alumni,160
+71,Company,2014,AstraZeneca,Alumni,144
+72,Company,2014,PwC,Alumni,142
+73,Company,2014,Santander Bank Polska,Alumni,135
+74,Company,2014,CEMS Club Warsaw,Alumni,110
+75,Company,2015,Citi,Alumni,402
+76,Company,2015,EY,Alumni,375
+77,Company,2015,Accenture,Alumni,362
+78,Company,2015,PwC Polska,Alumni,304
+79,Company,2015,Deloitte,Alumni,261
+80,Company,2015,Procter & Gamble,Alumni,205
+81,Company,2015,KPMG Poland,Alumni,187
+82,Company,2015,PZU,Alumni,174
+83,Company,2015,PKO Bank Polski,Alumni,165
+84,Company,2015,BNP Paribas Securities Services,Alumni,153
+85,Company,2015,JLL,Alumni,146
+86,Company,2015,mBank S.A.,Alumni,142
+87,Company,2015,PwC,Alumni,128
+88,Company,2015,AstraZeneca,Alumni,125
+89,Company,2015,Santander Bank Polska,Alumni,119
+90,Company,2016,Citi,Alumni,352
+91,Company,2016,EY,Alumni,330
+92,Company,2016,Accenture,Alumni,325
+93,Company,2016,PwC Polska,Alumni,278
+94,Company,2016,Deloitte,Alumni,237
+95,Company,2016,Procter & Gamble,Alumni,183
+96,Company,2016,KPMG Poland,Alumni,173
+97,Company,2016,PZU,Alumni,155
+98,Company,2016,PKO Bank Polski,Alumni,144
+99,Company,2016,BNP Paribas Securities Services,Alumni,139
+100,Company,2016,JLL,Alumni,137
+101,Company,2016,mBank S.A.,Alumni,120
+102,Company,2016,CEMS Club Warsaw,Alumni,110
+103,Company,2016,Nielsen,Alumni,105
+104,Company,2016,Santander Bank Polska,Alumni,105
+105,Company,2017,Citi,Alumni,293
+106,Company,2017,Accenture,Alumni,281
+107,Company,2017,EY,Alumni,270
+108,Company,2017,PwC Polska,Alumni,253
+109,Company,2017,Deloitte,Alumni,206
+110,Company,2017,Procter & Gamble,Alumni,162
+111,Company,2017,KPMG Poland,Alumni,161
+112,Company,2017,PZU,Alumni,129
+113,Company,2017,PKO Bank Polski,Alumni,121
+114,Company,2017,JLL,Alumni,121
+115,Company,2017,BNP Paribas Securities Services,Alumni,116
+116,Company,2017,SGH Warsaw School of Economics,Alumni,112
+117,Company,2017,CEMS Club Warsaw,Alumni,109
+118,Company,2017,mBank S.A.,Alumni,103
+119,Company,2017,Nielsen,Alumni,94
+120,Company,2018,Accenture,Alumni,246
+121,Company,2018,Citi,Alumni,244
+122,Company,2018,EY,Alumni,225
+123,Company,2018,PwC Polska,Alumni,207
+124,Company,2018,Deloitte,Alumni,175
+125,Company,2018,KPMG Poland,Alumni,139
+126,Company,2018,Procter & Gamble,Alumni,137
+127,Company,2018,CEMS Club Warsaw,Alumni,109
+128,Company,2018,PKO Bank Polski,Alumni,102
+129,Company,2018,PZU,Alumni,97
+130,Company,2018,JLL,Alumni,97
+131,Company,2018,BNP Paribas Securities Services,Alumni,97
+132,Company,2018,SGH Warsaw School of Economics,Alumni,95
+133,Company,2018,Nielsen,Alumni,81
+134,Company,2018,Santander Bank Polska,Alumni,79
+135,Company,2019,Citi,Alumni,192
+136,Company,2019,Accenture,Alumni,184
+137,Company,2019,EY,Alumni,165
+138,Company,2019,PwC Polska,Alumni,157
+139,Company,2019,Deloitte,Alumni,136
+140,Company,2019,CEMS Club Warsaw,Alumni,109
+141,Company,2019,Procter & Gamble,Alumni,102
+142,Company,2019,KPMG Poland,Alumni,101
+143,Company,2019,SGH Warsaw School of Economics,Alumni,82
+144,Company,2019,BNP Paribas Securities Services,Alumni,82
+145,Company,2019,Students' Business Club,Alumni,81
+146,Company,2019,JLL,Alumni,79
+147,Company,2019,PKO Bank Polski,Alumni,75
+148,Company,2019,Nielsen,Alumni,67
+149,Company,2019,Warsaw Consulting Club,Alumni,60
+150,Company,2020,Citi,Alumni,133
+151,Company,2020,Accenture,Alumni,122
+152,Company,2020,EY,Alumni,113
+153,Company,2020,PwC Polska,Alumni,104
+154,Company,2020,CEMS Club Warsaw,Alumni,103
+155,Company,2020,Deloitte,Alumni,91
+156,Company,2020,Students' Business Club,Alumni,77
+157,Company,2020,Procter & Gamble,Alumni,72
+158,Company,2020,KPMG Poland,Alumni,65
+159,Company,2020,BNP Paribas Securities Services,Alumni,61
+160,Company,2020,JLL,Alumni,59
+161,Company,2020,Warsaw Consulting Club,Alumni,58
+162,Company,2020,PZU,Alumni,55
+163,Company,2020,SGH Warsaw School of Economics,Alumni,53
+164,Company,2020,Warsaw School of Economics Students' Union,Alumni,49
+165,Company,2021,CEMS Club Warsaw,Alumni,86
+166,Company,2021,Students' Business Club,Alumni,64
+167,Company,2021,Accenture,Alumni,60
+168,Company,2021,Citi,Alumni,56
+169,Company,2021,EY,Alumni,53
+170,Company,2021,PwC Polska,Alumni,53
+171,Company,2021,Warsaw Consulting Club,Alumni,50
+172,Company,2021,Deloitte,Alumni,48
+173,Company,2021,Warsaw School of Economics Students' Union,Alumni,43
+174,Company,2021,ZSP SGH,Alumni,36
+175,Company,2021,Procter & Gamble,Alumni,36
+176,Company,2021,BNP Paribas Securities Services,Alumni,35
+177,Company,2021,SGH Warsaw School of Economics,Alumni,33
+178,Company,2021,JLL,Alumni,28
+179,Company,2021,Studenckie Koło Naukowe Negocjator,Alumni,22
+180,Position,2010,Business Development,Alumni,"1,418"
+181,Position,2010,Finance,Alumni,"1,044"
+182,Position,2010,Sales,Alumni,771
+183,Position,2010,Information Technology,Alumni,741
+184,Position,2010,Operations,Alumni,715
+185,Position,2010,Marketing,Alumni,584
+186,Position,2010,Program and Project Management,Alumni,532
+187,Position,2010,Accounting,Alumni,522
+188,Position,2010,Engineering,Alumni,375
+189,Position,2010,Research,Alumni,353
+190,Position,2010,Consulting,Alumni,308
+191,Position,2010,Support,Alumni,247
+192,Position,2010,Human Resources,Alumni,240
+193,Position,2010,Media and Communication,Alumni,224
+194,Position,2010,Education,Alumni,219
+195,Position,2011,Business Development,Alumni,"1,382"
+196,Position,2011,Finance,Alumni,953
+197,Position,2011,Information Technology,Alumni,804
+198,Position,2011,Sales,Alumni,740
+199,Position,2011,Operations,Alumni,705
+200,Position,2011,Marketing,Alumni,601
+201,Position,2011,Accounting,Alumni,543
+202,Position,2011,Program and Project Management,Alumni,503
+203,Position,2011,Engineering,Alumni,485
+204,Position,2011,Research,Alumni,348
+205,Position,2011,Consulting,Alumni,319
+206,Position,2011,Support,Alumni,276
+207,Position,2011,Human Resources,Alumni,250
+208,Position,2011,Media and Communication,Alumni,243
+209,Position,2011,Education,Alumni,206
+210,Position,2012,Business Development,Alumni,"1,406"
+211,Position,2012,Finance,Alumni,"1,074"
+212,Position,2012,Information Technology,Alumni,817
+213,Position,2012,Sales,Alumni,781
+214,Position,2012,Operations,Alumni,716
+215,Position,2012,Marketing,Alumni,662
+216,Position,2012,Accounting,Alumni,573
+217,Position,2012,Program and Project Management,Alumni,568
+218,Position,2012,Engineering,Alumni,482
+219,Position,2012,Research,Alumni,405
+220,Position,2012,Consulting,Alumni,332
+221,Position,2012,Media and Communication,Alumni,268
+222,Position,2012,Support,Alumni,265
+223,Position,2012,Human Resources,Alumni,255
+224,Position,2012,Product Management,Alumni,235
+225,Position,2013,Business Development,Alumni,"1,413"
+226,Position,2013,Finance,Alumni,"1,083"
+227,Position,2013,Information Technology,Alumni,821
+228,Position,2013,Operations,Alumni,787
+229,Position,2013,Sales,Alumni,762
+230,Position,2013,Marketing,Alumni,652
+231,Position,2013,Accounting,Alumni,596
+232,Position,2013,Program and Project Management,Alumni,546
+233,Position,2013,Engineering,Alumni,440
+234,Position,2013,Research,Alumni,424
+235,Position,2013,Consulting,Alumni,344
+236,Position,2013,Support,Alumni,260
+237,Position,2013,Media and Communication,Alumni,259
+238,Position,2013,Human Resources,Alumni,258
+239,Position,2013,Education,Alumni,228
+240,Position,2014,Business Development,Alumni,"1,348"
+241,Position,2014,Finance,Alumni,"1,130"
+242,Position,2014,Information Technology,Alumni,876
+243,Position,2014,Operations,Alumni,765
+244,Position,2014,Sales,Alumni,737
+245,Position,2014,Marketing,Alumni,709
+246,Position,2014,Accounting,Alumni,691
+247,Position,2014,Program and Project Management,Alumni,503
+248,Position,2014,Engineering,Alumni,446
+249,Position,2014,Research,Alumni,390
+250,Position,2014,Consulting,Alumni,363
+251,Position,2014,Media and Communication,Alumni,294
+252,Position,2014,Support,Alumni,279
+253,Position,2014,Human Resources,Alumni,259
+254,Position,2014,Legal,Alumni,242
+255,Position,2015,Business Development,Alumni,"1,246"
+256,Position,2015,Finance,Alumni,"1,051"
+257,Position,2015,Information Technology,Alumni,903
+258,Position,2015,Sales,Alumni,798
+259,Position,2015,Operations,Alumni,794
+260,Position,2015,Accounting,Alumni,722
+261,Position,2015,Marketing,Alumni,676
+262,Position,2015,Program and Project Management,Alumni,510
+263,Position,2015,Engineering,Alumni,490
+264,Position,2015,Research,Alumni,466
+265,Position,2015,Consulting,Alumni,343
+266,Position,2015,Support,Alumni,295
+267,Position,2015,Media and Communication,Alumni,276
+268,Position,2015,Human Resources,Alumni,253
+269,Position,2015,Legal,Alumni,231
+270,Position,2016,Business Development,Alumni,"1,361"
+271,Position,2016,Finance,Alumni,"1,139"
+272,Position,2016,Information Technology,Alumni,"1,026"
+273,Position,2016,Operations,Alumni,927
+274,Position,2016,Sales,Alumni,818
+275,Position,2016,Accounting,Alumni,811
+276,Position,2016,Marketing,Alumni,747
+277,Position,2016,Program and Project Management,Alumni,554
+278,Position,2016,Engineering,Alumni,518
+279,Position,2016,Research,Alumni,456
+280,Position,2016,Consulting,Alumni,370
+281,Position,2016,Support,Alumni,354
+282,Position,2016,Human Resources,Alumni,271
+283,Position,2016,Media and Communication,Alumni,253
+284,Position,2016,Legal,Alumni,237
+285,Position,2017,Business Development,Alumni,"1,193"
+286,Position,2017,Finance,Alumni,"1,064"
+287,Position,2017,Operations,Alumni,909
+288,Position,2017,Information Technology,Alumni,889
+289,Position,2017,Sales,Alumni,788
+290,Position,2017,Accounting,Alumni,748
+291,Position,2017,Marketing,Alumni,702
+292,Position,2017,Program and Project Management,Alumni,525
+293,Position,2017,Engineering,Alumni,500
+294,Position,2017,Research,Alumni,465
+295,Position,2017,Support,Alumni,356
+296,Position,2017,Consulting,Alumni,344
+297,Position,2017,Human Resources,Alumni,292
+298,Position,2017,Media and Communication,Alumni,272
+299,Position,2017,Education,Alumni,266
+300,Position,2018,Business Development,Alumni,"1,186"
+301,Position,2018,Finance,Alumni,964
+302,Position,2018,Operations,Alumni,892
+303,Position,2018,Information Technology,Alumni,868
+304,Position,2018,Accounting,Alumni,796
+305,Position,2018,Sales,Alumni,730
+306,Position,2018,Marketing,Alumni,589
+307,Position,2018,Program and Project Management,Alumni,496
+308,Position,2018,Engineering,Alumni,479
+309,Position,2018,Research,Alumni,419
+310,Position,2018,Support,Alumni,379
+311,Position,2018,Consulting,Alumni,329
+312,Position,2018,Media and Communication,Alumni,280
+313,Position,2018,Human Resources,Alumni,270
+314,Position,2018,Administrative,Alumni,268
+315,Position,2019,Business Development,Alumni,"1,014"
+316,Position,2019,Operations,Alumni,850
+317,Position,2019,Finance,Alumni,841
+318,Position,2019,Information Technology,Alumni,717
+319,Position,2019,Accounting,Alumni,642
+320,Position,2019,Sales,Alumni,624
+321,Position,2019,Marketing,Alumni,553
+322,Position,2019,Program and Project Management,Alumni,363
+323,Position,2019,Engineering,Alumni,363
+324,Position,2019,Research,Alumni,348
+325,Position,2019,Support,Alumni,332
+326,Position,2019,Education,Alumni,302
+327,Position,2019,Administrative,Alumni,277
+328,Position,2019,Human Resources,Alumni,274
+329,Position,2019,Legal,Alumni,264
+330,Position,2020,Business Development,Alumni,709
+331,Position,2020,Operations,Alumni,701
+332,Position,2020,Finance,Alumni,694
+333,Position,2020,Information Technology,Alumni,558
+334,Position,2020,Accounting,Alumni,550
+335,Position,2020,Sales,Alumni,517
+336,Position,2020,Marketing,Alumni,443
+337,Position,2020,Support,Alumni,292
+338,Position,2020,Engineering,Alumni,276
+339,Position,2020,Program and Project Management,Alumni,267
+340,Position,2020,Research,Alumni,245
+341,Position,2020,Administrative,Alumni,241
+342,Position,2020,Human Resources,Alumni,233
+343,Position,2020,Legal,Alumni,231
+344,Position,2020,Education,Alumni,217
+345,Position,2021,Operations,Alumni,359
+346,Position,2021,Business Development,Alumni,332
+347,Position,2021,Finance,Alumni,286
+348,Position,2021,Accounting,Alumni,250
+349,Position,2021,Information Technology,Alumni,236
+350,Position,2021,Sales,Alumni,223
+351,Position,2021,Marketing,Alumni,187
+352,Position,2021,Support,Alumni,147
+353,Position,2021,Education,Alumni,142
+354,Position,2021,Research,Alumni,137
+355,Position,2021,Administrative,Alumni,119
+356,Position,2021,Engineering,Alumni,113
+357,Position,2021,Program and Project Management,Alumni,100
+358,Position,2021,Human Resources,Alumni,97
+359,Position,2021,Legal,Alumni,96
+360,Study,2010,Accounting and Finance,Alumni,"1,336"
+361,Study,2010,Economics,Alumni,"1,216"
+362,Study,2010,"Business Administration and Management, General",Alumni,"1,168"
+363,Study,2010,Information Technology,Alumni,718
+364,Study,2010,Marketing,Alumni,687
+365,Study,2010,Project Management,Alumni,659
+366,Study,2010,"Marketing/Marketing Management, General",Alumni,489
+367,Study,2010,Banking and Financial Support Services,Alumni,471
+368,Study,2010,Management Sciences and Quantitative Methods,Alumni,451
+369,Study,2010,International Business,Alumni,429
+370,Study,2010,"Finance, General",Alumni,397
+371,Study,2010,International Economics,Alumni,216
+372,Study,2010,International Relations,Alumni,212
+373,Study,2010,International/Global Studies,Alumni,198
+374,Study,2010,Computer Science,Alumni,197
+375,Study,2011,Accounting and Finance,Alumni,"1,479"
+376,Study,2011,Economics,Alumni,"1,307"
+377,Study,2011,"Business Administration and Management, General",Alumni,"1,157"
+378,Study,2011,Information Technology,Alumni,793
+379,Study,2011,Project Management,Alumni,712
+380,Study,2011,Marketing,Alumni,646
+381,Study,2011,Management Sciences and Quantitative Methods,Alumni,541
+382,Study,2011,"Marketing/Marketing Management, General",Alumni,433
+383,Study,2011,International Business,Alumni,427
+384,Study,2011,"Finance, General",Alumni,367
+385,Study,2011,Banking and Financial Support Services,Alumni,289
+386,Study,2011,International Economics,Alumni,228
+387,Study,2011,Computer Science,Alumni,217
+388,Study,2011,International/Global Studies,Alumni,203
+389,Study,2011,Law,Alumni,196
+390,Study,2012,Accounting and Finance,Alumni,"1,671"
+391,Study,2012,Economics,Alumni,"1,365"
+392,Study,2012,"Business Administration and Management, General",Alumni,"1,158"
+393,Study,2012,Information Technology,Alumni,911
+394,Study,2012,Project Management,Alumni,737
+395,Study,2012,Marketing,Alumni,636
+396,Study,2012,Management Sciences and Quantitative Methods,Alumni,572
+397,Study,2012,International Business,Alumni,461
+398,Study,2012,"Marketing/Marketing Management, General",Alumni,428
+399,Study,2012,"Finance, General",Alumni,346
+400,Study,2012,International Economics,Alumni,271
+401,Study,2012,Banking and Financial Support Services,Alumni,259
+402,Study,2012,International/Global Studies,Alumni,222
+403,Study,2012,Computer Science,Alumni,206
+404,Study,2012,Law,Alumni,198
+405,Study,2013,Accounting and Finance,Alumni,"1,694"
+406,Study,2013,Economics,Alumni,"1,371"
+407,Study,2013,"Business Administration and Management, General",Alumni,"1,194"
+408,Study,2013,Information Technology,Alumni,857
+409,Study,2013,Marketing,Alumni,615
+410,Study,2013,Project Management,Alumni,613
+411,Study,2013,Management Sciences and Quantitative Methods,Alumni,586
+412,Study,2013,International Business,Alumni,434
+413,Study,2013,"Marketing/Marketing Management, General",Alumni,377
+414,Study,2013,"Finance, General",Alumni,367
+415,Study,2013,International/Global Studies,Alumni,280
+416,Study,2013,Banking and Financial Support Services,Alumni,263
+417,Study,2013,International Economics,Alumni,261
+418,Study,2013,Law,Alumni,207
+419,Study,2013,Accounting,Alumni,195
+420,Study,2014,Accounting and Finance,Alumni,"1,764"
+421,Study,2014,Economics,Alumni,"1,460"
+422,Study,2014,"Business Administration and Management, General",Alumni,"1,230"
+423,Study,2014,Information Technology,Alumni,821
+424,Study,2014,Management Sciences and Quantitative Methods,Alumni,643
+425,Study,2014,Marketing,Alumni,603
+426,Study,2014,Project Management,Alumni,559
+427,Study,2014,International Business,Alumni,427
+428,Study,2014,"Finance, General",Alumni,375
+429,Study,2014,"Marketing/Marketing Management, General",Alumni,365
+430,Study,2014,International Economics,Alumni,259
+431,Study,2014,International/Global Studies,Alumni,253
+432,Study,2014,Law,Alumni,231
+433,Study,2014,Banking and Financial Support Services,Alumni,194
+434,Study,2014,Corporate Finance,Alumni,188
+435,Study,2015,Accounting and Finance,Alumni,"1,753"
+436,Study,2015,Economics,Alumni,"1,356"
+437,Study,2015,"Business Administration and Management, General",Alumni,"1,264"
+438,Study,2015,Information Technology,Alumni,760
+439,Study,2015,Management Sciences and Quantitative Methods,Alumni,595
+440,Study,2015,Marketing,Alumni,573
+441,Study,2015,Project Management,Alumni,533
+442,Study,2015,International Business,Alumni,476
+443,Study,2015,Data Processing and Data Processing Technology/Technician,Alumni,338
+444,Study,2015,"Finance, General",Alumni,332
+445,Study,2015,"Marketing/Marketing Management, General",Alumni,268
+446,Study,2015,International/Global Studies,Alumni,245
+447,Study,2015,Law,Alumni,233
+448,Study,2015,International Economics,Alumni,212
+449,Study,2015,"Business/Commerce, General",Alumni,192
+450,Study,2016,Accounting and Finance,Alumni,"1,642"
+451,Study,2016,Economics,Alumni,"1,416"
+452,Study,2016,"Business Administration and Management, General",Alumni,"1,269"
+453,Study,2016,Information Technology,Alumni,774
+454,Study,2016,Management Sciences and Quantitative Methods,Alumni,601
+455,Study,2016,Marketing,Alumni,591
+456,Study,2016,Project Management,Alumni,579
+457,Study,2016,"Finance, General",Alumni,491
+458,Study,2016,International Business,Alumni,460
+459,Study,2016,Data Processing and Data Processing Technology/Technician,Alumni,403
+460,Study,2016,International Business/Trade/Commerce,Alumni,332
+461,Study,2016,"Marketing/Marketing Management, General",Alumni,264
+462,Study,2016,International/Global Studies,Alumni,263
+463,Study,2016,Law,Alumni,257
+464,Study,2016,Accounting,Alumni,193
+465,Study,2017,Accounting and Finance,Alumni,"1,440"
+466,Study,2017,Economics,Alumni,"1,268"
+467,Study,2017,"Business Administration and Management, General",Alumni,"1,263"
+468,Study,2017,Information Technology,Alumni,695
+469,Study,2017,Management Sciences and Quantitative Methods,Alumni,567
+470,Study,2017,Project Management,Alumni,539
+471,Study,2017,Marketing,Alumni,530
+472,Study,2017,Data Processing and Data Processing Technology/Technician,Alumni,508
+473,Study,2017,"Finance, General",Alumni,450
+474,Study,2017,International Business,Alumni,437
+475,Study,2017,International Business/Trade/Commerce,Alumni,301
+476,Study,2017,"Business/Commerce, General",Alumni,261
+477,Study,2017,Law,Alumni,256
+478,Study,2017,"Marketing/Marketing Management, General",Alumni,217
+479,Study,2017,International/Global Studies,Alumni,210
+480,Study,2018,Accounting and Finance,Alumni,"1,226"
+481,Study,2018,Economics,Alumni,"1,173"
+482,Study,2018,"Business Administration and Management, General",Alumni,"1,120"
+483,Study,2018,Information Technology,Alumni,651
+484,Study,2018,Data Processing and Data Processing Technology/Technician,Alumni,565
+485,Study,2018,Marketing,Alumni,516
+486,Study,2018,Project Management,Alumni,515
+487,Study,2018,Management Sciences and Quantitative Methods,Alumni,500
+488,Study,2018,"Finance, General",Alumni,419
+489,Study,2018,International Business,Alumni,413
+490,Study,2018,International Business/Trade/Commerce,Alumni,306
+491,Study,2018,Law,Alumni,254
+492,Study,2018,"Business/Commerce, General",Alumni,244
+493,Study,2018,International/Global Studies,Alumni,180
+494,Study,2018,"Marketing/Marketing Management, General",Alumni,171
+495,Study,2019,Accounting and Finance,Alumni,"1,055"
+496,Study,2019,Economics,Alumni,"1,004"
+497,Study,2019,"Business Administration and Management, General",Alumni,927
+498,Study,2019,Information Technology,Alumni,539
+499,Study,2019,Data Processing and Data Processing Technology/Technician,Alumni,532
+500,Study,2019,"Finance, General",Alumni,492
+501,Study,2019,Marketing,Alumni,453
+502,Study,2019,Project Management,Alumni,428
+503,Study,2019,Management Sciences and Quantitative Methods,Alumni,428
+504,Study,2019,International Business/Trade/Commerce,Alumni,369
+505,Study,2019,International Business,Alumni,339
+506,Study,2019,Law,Alumni,245
+507,Study,2019,"Business/Commerce, General",Alumni,220
+508,Study,2019,International/Global Studies,Alumni,180
+509,Study,2019,"Marketing/Marketing Management, General",Alumni,140
+510,Study,2020,Accounting and Finance,Alumni,825
+511,Study,2020,Economics,Alumni,768
+512,Study,2020,"Business Administration and Management, General",Alumni,726
+513,Study,2020,Data Processing and Data Processing Technology/Technician,Alumni,527
+514,Study,2020,Information Technology,Alumni,388
+515,Study,2020,"Finance, General",Alumni,383
+516,Study,2020,Project Management,Alumni,357
+517,Study,2020,Marketing,Alumni,357
+518,Study,2020,Management Sciences and Quantitative Methods,Alumni,323
+519,Study,2020,International Business/Trade/Commerce,Alumni,306
+520,Study,2020,International Business,Alumni,257
+521,Study,2020,Law,Alumni,215
+522,Study,2020,"Business/Commerce, General",Alumni,202
+523,Study,2020,"Human Resources Management/Personnel Administration, General",Alumni,164
+524,Study,2020,International/Global Studies,Alumni,146
+525,Study,2021,Accounting and Finance,Alumni,413
+526,Study,2021,Economics,Alumni,391
+527,Study,2021,"Business Administration and Management, General",Alumni,306
+528,Study,2021,"Finance, General",Alumni,236
+529,Study,2021,Information Technology,Alumni,218
+530,Study,2021,Data Processing and Data Processing Technology/Technician,Alumni,210
+531,Study,2021,International Business/Trade/Commerce,Alumni,209
+532,Study,2021,Management Sciences and Quantitative Methods,Alumni,192
+533,Study,2021,Project Management,Alumni,134
+534,Study,2021,Marketing,Alumni,134
+535,Study,2021,International Business,Alumni,112
+536,Study,2021,Law,Alumni,98
+537,Study,2021,International/Global Studies,Alumni,70
+538,Study,2021,Accounting,Alumni,65
+539,Study,2021,"Business/Commerce, General",Alumni,62
+540,Skill,2010,Project Management,Alumni,"2,552"
+541,Skill,2010,Management,Alumni,"2,115"
+542,Skill,2010,Microsoft Excel,Alumni,"1,680"
+543,Skill,2010,Microsoft Office,Alumni,"1,657"
+544,Skill,2010,Business Analysis,Alumni,"1,455"
+545,Skill,2010,Business Strategy,Alumni,"1,443"
+546,Skill,2010,Analytical Skills,Alumni,"1,359"
+547,Skill,2010,Financial Analysis,Alumni,"1,264"
+548,Skill,2010,Team Management,Alumni,"1,201"
+549,Skill,2010,Negotiation,Alumni,"1,103"
+550,Skill,2010,Strategy,Alumni,"1,041"
+551,Skill,2010,Marketing Strategy,Alumni,976
+552,Skill,2010,English,Alumni,970
+553,Skill,2010,Marketing,Alumni,945
+554,Skill,2010,Data Analysis,Alumni,905
+555,Skill,2011,Project Management,Alumni,"2,557"
+556,Skill,2011,Microsoft Excel,Alumni,"1,985"
+557,Skill,2011,Management,Alumni,"1,919"
+558,Skill,2011,Microsoft Office,Alumni,"1,916"
+559,Skill,2011,Business Analysis,Alumni,"1,373"
+560,Skill,2011,Business Strategy,Alumni,"1,327"
+561,Skill,2011,Analytical Skills,Alumni,"1,277"
+562,Skill,2011,Financial Analysis,Alumni,"1,183"
+563,Skill,2011,Team Management,Alumni,"1,092"
+564,Skill,2011,English,Alumni,"1,056"
+565,Skill,2011,Data Analysis,Alumni,"1,017"
+566,Skill,2011,Negotiation,Alumni,"1,010"
+567,Skill,2011,Marketing Strategy,Alumni,955
+568,Skill,2011,Marketing,Alumni,897
+569,Skill,2011,Strategy,Alumni,886
+570,Skill,2012,Project Management,Alumni,"2,715"
+571,Skill,2012,Microsoft Office,Alumni,"2,226"
+572,Skill,2012,Microsoft Excel,Alumni,"2,222"
+573,Skill,2012,Management,Alumni,"1,971"
+574,Skill,2012,Business Analysis,Alumni,"1,421"
+575,Skill,2012,Business Strategy,Alumni,"1,359"
+576,Skill,2012,Analytical Skills,Alumni,"1,333"
+577,Skill,2012,Financial Analysis,Alumni,"1,259"
+578,Skill,2012,Teamwork,Alumni,"1,214"
+579,Skill,2012,Data Analysis,Alumni,"1,209"
+580,Skill,2012,English,Alumni,"1,180"
+581,Skill,2012,Team Management,Alumni,"1,156"
+582,Skill,2012,Negotiation,Alumni,"1,032"
+583,Skill,2012,Marketing,Alumni,968
+584,Skill,2012,Microsoft PowerPoint,Alumni,961
+585,Skill,2013,Project Management,Alumni,"2,708"
+586,Skill,2013,Microsoft Office,Alumni,"2,572"
+587,Skill,2013,Microsoft Excel,Alumni,"2,532"
+588,Skill,2013,Management,Alumni,"1,886"
+589,Skill,2013,Teamwork,Alumni,"1,368"
+590,Skill,2013,Data Analysis,Alumni,"1,303"
+591,Skill,2013,Analytical Skills,Alumni,"1,293"
+592,Skill,2013,Business Analysis,Alumni,"1,240"
+593,Skill,2013,English,Alumni,"1,234"
+594,Skill,2013,Business Strategy,Alumni,"1,197"
+595,Skill,2013,Financial Analysis,Alumni,"1,131"
+596,Skill,2013,Team Management,Alumni,"1,114"
+597,Skill,2013,Microsoft PowerPoint,Alumni,"1,047"
+598,Skill,2013,Negotiation,Alumni,993
+599,Skill,2013,SQL,Alumni,951
+600,Skill,2014,Microsoft Office,Alumni,"2,957"
+601,Skill,2014,Microsoft Excel,Alumni,"2,887"
+602,Skill,2014,Project Management,Alumni,"2,580"
+603,Skill,2014,Management,Alumni,"1,815"
+604,Skill,2014,Teamwork,Alumni,"1,692"
+605,Skill,2014,English,Alumni,"1,357"
+606,Skill,2014,Data Analysis,Alumni,"1,337"
+607,Skill,2014,Analytical Skills,Alumni,"1,231"
+608,Skill,2014,Microsoft PowerPoint,Alumni,"1,216"
+609,Skill,2014,Business Analysis,Alumni,"1,169"
+610,Skill,2014,Financial Analysis,Alumni,"1,109"
+611,Skill,2014,Business Strategy,Alumni,"1,087"
+612,Skill,2014,Customer Service,Alumni,"1,086"
+613,Skill,2014,Negotiation,Alumni,"1,025"
+614,Skill,2014,SQL,Alumni,"1,009"
+615,Skill,2015,Microsoft Office,Alumni,"3,087"
+616,Skill,2015,Microsoft Excel,Alumni,"2,943"
+617,Skill,2015,Project Management,Alumni,"2,601"
+618,Skill,2015,Teamwork,Alumni,"1,855"
+619,Skill,2015,Management,Alumni,"1,786"
+620,Skill,2015,Data Analysis,Alumni,"1,504"
+621,Skill,2015,English,Alumni,"1,429"
+622,Skill,2015,Microsoft PowerPoint,Alumni,"1,358"
+623,Skill,2015,Analytical Skills,Alumni,"1,248"
+624,Skill,2015,Customer Service,Alumni,"1,207"
+625,Skill,2015,Microsoft Word,Alumni,"1,106"
+626,Skill,2015,Business Analysis,Alumni,"1,067"
+627,Skill,2015,SQL,Alumni,"1,052"
+628,Skill,2015,Financial Analysis,Alumni,"1,000"
+629,Skill,2015,Business Strategy,Alumni,984
+630,Skill,2016,Microsoft Office,Alumni,"3,572"
+631,Skill,2016,Microsoft Excel,Alumni,"3,431"
+632,Skill,2016,Project Management,Alumni,"2,844"
+633,Skill,2016,Teamwork,Alumni,"2,204"
+634,Skill,2016,Management,Alumni,"1,933"
+635,Skill,2016,Data Analysis,Alumni,"1,703"
+636,Skill,2016,English,Alumni,"1,659"
+637,Skill,2016,Microsoft PowerPoint,Alumni,"1,482"
+638,Skill,2016,Customer Service,Alumni,"1,438"
+639,Skill,2016,Analytical Skills,Alumni,"1,409"
+640,Skill,2016,Microsoft Word,Alumni,"1,309"
+641,Skill,2016,SQL,Alumni,"1,196"
+642,Skill,2016,Negotiation,Alumni,"1,098"
+643,Skill,2016,Business Analysis,Alumni,"1,096"
+644,Skill,2016,Team Management,Alumni,"1,052"
+645,Skill,2017,Microsoft Office,Alumni,"3,570"
+646,Skill,2017,Microsoft Excel,Alumni,"3,202"
+647,Skill,2017,Project Management,Alumni,"2,516"
+648,Skill,2017,Teamwork,Alumni,"2,231"
+649,Skill,2017,Management,Alumni,"1,823"
+650,Skill,2017,English,Alumni,"1,647"
+651,Skill,2017,Data Analysis,Alumni,"1,606"
+652,Skill,2017,Customer Service,Alumni,"1,523"
+653,Skill,2017,Microsoft PowerPoint,Alumni,"1,477"
+654,Skill,2017,Analytical Skills,Alumni,"1,379"
+655,Skill,2017,Microsoft Word,Alumni,"1,347"
+656,Skill,2017,SQL,Alumni,"1,118"
+657,Skill,2017,Negotiation,Alumni,"1,024"
+658,Skill,2017,Marketing,Alumni,980
+659,Skill,2017,Leadership,Alumni,961
+660,Skill,2018,Microsoft Office,Alumni,"3,464"
+661,Skill,2018,Microsoft Excel,Alumni,"3,187"
+662,Skill,2018,Project Management,Alumni,"2,249"
+663,Skill,2018,Teamwork,Alumni,"2,183"
+664,Skill,2018,English,Alumni,"1,737"
+665,Skill,2018,Data Analysis,Alumni,"1,693"
+666,Skill,2018,Management,Alumni,"1,645"
+667,Skill,2018,Customer Service,Alumni,"1,495"
+668,Skill,2018,Microsoft PowerPoint,Alumni,"1,443"
+669,Skill,2018,Analytical Skills,Alumni,"1,349"
+670,Skill,2018,Microsoft Word,Alumni,"1,294"
+671,Skill,2018,SQL,Alumni,"1,125"
+672,Skill,2018,Negotiation,Alumni,986
+673,Skill,2018,Marketing,Alumni,916
+674,Skill,2018,Team Management,Alumni,906
+675,Skill,2019,Microsoft Office,Alumni,"3,218"
+676,Skill,2019,Microsoft Excel,Alumni,"2,864"
+677,Skill,2019,Project Management,Alumni,"1,977"
+678,Skill,2019,Teamwork,Alumni,"1,964"
+679,Skill,2019,English,Alumni,"1,630"
+680,Skill,2019,Data Analysis,Alumni,"1,403"
+681,Skill,2019,Management,Alumni,"1,395"
+682,Skill,2019,Customer Service,Alumni,"1,307"
+683,Skill,2019,Microsoft PowerPoint,Alumni,"1,274"
+684,Skill,2019,Analytical Skills,Alumni,"1,274"
+685,Skill,2019,Microsoft Word,Alumni,"1,212"
+686,Skill,2019,SQL,Alumni,954
+687,Skill,2019,Leadership,Alumni,830
+688,Skill,2019,Marketing,Alumni,813
+689,Skill,2019,Communication,Alumni,792
+690,Skill,2020,Microsoft Office,Alumni,"2,562"
+691,Skill,2020,Microsoft Excel,Alumni,"2,299"
+692,Skill,2020,Teamwork,Alumni,"1,769"
+693,Skill,2020,English,Alumni,"1,435"
+694,Skill,2020,Project Management,Alumni,"1,427"
+695,Skill,2020,Data Analysis,Alumni,"1,166"
+696,Skill,2020,Customer Service,Alumni,"1,134"
+697,Skill,2020,Analytical Skills,Alumni,"1,092"
+698,Skill,2020,Management,Alumni,"1,048"
+699,Skill,2020,Microsoft PowerPoint,Alumni,"1,035"
+700,Skill,2020,Microsoft Word,Alumni,998
+701,Skill,2020,SQL,Alumni,764
+702,Skill,2020,Communication,Alumni,729
+703,Skill,2020,Social Media,Alumni,643
+704,Skill,2020,Marketing,Alumni,625
+705,Skill,2021,Microsoft Office,Alumni,"1,234"
+706,Skill,2021,Microsoft Excel,Alumni,"1,078"
+707,Skill,2021,Teamwork,Alumni,825
+708,Skill,2021,English,Alumni,707
+709,Skill,2021,Project Management,Alumni,633
+710,Skill,2021,Analytical Skills,Alumni,565
+711,Skill,2021,Data Analysis,Alumni,527
+712,Skill,2021,Customer Service,Alumni,470
+713,Skill,2021,Microsoft PowerPoint,Alumni,458
+714,Skill,2021,Microsoft Word,Alumni,438
+715,Skill,2021,Management,Alumni,416
+716,Skill,2021,Communication,Alumni,364
+717,Skill,2021,SQL,Alumni,362
+718,Skill,2021,Leadership,Alumni,283
+719,Skill,2021,Social Media,Alumni,267
